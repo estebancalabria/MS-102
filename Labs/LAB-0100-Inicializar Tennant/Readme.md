@@ -8,7 +8,7 @@
 * Nommenclatura
   * [MENU] En el menu de la izquierda vertical  
 
-## Crear el perfil de la organizacion
+## Tarea 1 : Crear el perfil de la organizacion
 
  * [MENU] Settings -> Org Settings
      * Elegir el tab Organization Profile
@@ -21,6 +21,14 @@
             * Lynne Robbins
             * MOD Administrator
 
-## Crear un tema Visual Personalizado
+## Tarea 2: Crear un tema Visual Personalizado
 
-* Elegir opcion Teams y Grupos
+* [MENU] Elegir opcion Teams y Grups -> Active teams and groups
+  * [TAB] The Teams & Microsoft 365 groups
+   * [OPCION] + Add a Microsoft 365 group
+
+# Tarea 3 : Enable Information Rights Management for SharePoint Online
+
+# Tarea 4 : Install Microsoft Graph PowerShell
+
+# Tarea 5 : Turn on Audit Logging to enable Alert Policies
