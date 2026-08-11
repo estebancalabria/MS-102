@@ -36,3 +36,24 @@
 
 > [!NOTE]
 > Copiar los datos del usuario generado y el password
+
+* [BROWSER] Abrir una nueva ventana de incognito en otro browser
+   * http://admin.microsoft.com/
+   * Loguearse con lo nuevos usuarios
+   * Cambiar el password
+ 
+# Agregar un Grupo
+
+* [MENU] Teams & groups -> Active teams & groups
+  * [TAB] Temas & Microsoft 365 groups
+   * [LINK] + Add a Microsoft 365 group
+     * Basics
+       * Name : M365 pilot project.
+       * Owner : Holly
+      * Members
+        * ...
+      * Settings
+       * Privacy : Public
+       * Group email address : pilot@...
+
+# Usar
