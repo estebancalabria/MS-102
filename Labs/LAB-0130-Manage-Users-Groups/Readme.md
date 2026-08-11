@@ -1,7 +1,7 @@
 # LAB-0130-Manage-Users-Groups
 
 
-#
+## Verificar asignacion Licencias a Usuarios
 
 * Verificar las licenias disponibles para asingar
 
@@ -19,3 +19,6 @@
 * [MENU] BILLING -> Licenceses
   * [TAB] Subscriptions
     * Verificar que hay una licencia mas disponible
+
+## Agregar Usuario
+
