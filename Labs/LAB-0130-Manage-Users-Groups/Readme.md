@@ -22,3 +22,17 @@
 
 ## Agregar Usuario
 
+* [MENU] Users - > Active USers
+ * [LINK] Add a User
+   * [TAB] Basics
+     * Fist Name : Holly
+     * Last Name : Dickson
+     * Username : holly
+   * [TAB] Licencses
+     * Microsoft 365 E5 (no teams)
+     * Microsoct Teams Enterprise
+   * [TAB] Roles
+     * Global Administrator
+
+> [!NOTE]
+> Copiar los datos del usuario generado y el password
