@@ -56,4 +56,38 @@
        * Privacy : Public
        * Group email address : pilot@...
 
-# Usar
+# Administrar Grupos y Usuarios dede Powershell
+
+* [TASKBAR] Abrir Powershell
+
+* Conectarnos a MSGraph
+
+```powershell
+Connect-MgGraph -Scopes 'Group.ReadWrite.All', 'Directory.ReadWrite.All'
+```
+
+* Listar Grupos
+
+```powershell
+Get-MgGroup -Sort 'DisplayName'
+```
+
+* Ver los grupos eliminads
+
+```powershell
+Get-MgDirectoryDeletedItemAsGroup
+```
+
+* Restaurar grupo eliminado
+
+```powershell
+Restore-MgDirectoryDeletedItem -DirectoryObjectId 'paste in the object ID for the Inside Sales group here'
+```
+
+* Verificar que el grupo se ha establecido
+
+```powershell
+Get-MgGroup -Sort 'DisplayName'
+```
+
+* Verificar tambien en el portal
