@@ -42,7 +42,7 @@
    * Loguearse con lo nuevos usuarios
    * Cambiar el password
  
-# Agregar un Grupo
+# Administrar Grupos
 
 * [MENU] Teams & groups -> Active teams & groups
   * [TAB] Temas & Microsoft 365 groups
@@ -55,6 +55,14 @@
       * Settings
        * Privacy : Public
        * Group email address : pilot@...
+
+* [MENU] Teams & groups -> Active teams & groups
+  * [TAB] Teams & Microsoft 365 groups
+    * Seleccionar el grupo (ej: M365 pilot project) -> ⋮ More actions -> Delete team
+    * Confirmar Delete team
+      
+* [MENU] Teams & groups -> Deleted groups
+  * Verificar que aparece el grupo eliminado
 
 # Administrar Grupos y Usuarios dede Powershell
 
