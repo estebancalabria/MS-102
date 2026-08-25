@@ -1,6 +1,4 @@
-# Resumen — Deploy Microsoft 365 Apps for enterprise
-
-## Manage cloud apps using the Microsoft 365 Apps admin center
+# Manage cloud apps using the Microsoft 365 Apps admin center
 
 El **Microsoft 365 Apps admin center** permite administrar en la nube Microsoft 365 Apps for enterprise.
 
