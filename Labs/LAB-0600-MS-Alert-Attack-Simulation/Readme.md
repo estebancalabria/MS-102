@@ -1,6 +1,6 @@
-# Learning Path 6 - Lab 6 - Alert Policies y Attack Simulation Training en Microsoft Defender
+# Lab 6 - Alert Policies y Attack Simulation Training en Microsoft Defender
 
-# Learning Path 6 - Lab 6 - Exercise 1 - Prepare for Alert Policies
+## Exercise 1 - Prepare for Alert Policies
 
 > Se prepara el tenant para trabajar con Alert Policies en Microsoft Defender XDR. Hay dos requisitos previos: Audit Logging (ya activado y propagado desde el Lab 1) y los permisos RBAC correctos. En este ejercicio se asigna a Lynne Robbins -la usuaria elegida para testear alertas- el role group **Compliance Data Administrator** (incluye el role Compliance Administrator), que cubre las categorías **Data Loss Prevention** y **Permissions**, necesarias para ver las 3 alertas que se van a crear en este lab.
 
