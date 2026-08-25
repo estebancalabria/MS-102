@@ -48,7 +48,7 @@ Microsoft InfoPath 2013 y SharePoint Designer 2013 ya no forman parte de las edi
 
 Los usuarios pueden iniciar una instalación desde el Microsoft 365 portal seleccionando la opción de instalación de software.
 
-Ventajas y características:
+Características:
 
 * Requiere poca configuración administrativa.
 * Ofrece menor control sobre el despliegue.
@@ -238,7 +238,7 @@ El ODT permite:
 * Personalizar instalaciones.
 * Aplicar políticas de actualización.
 
-Antes de ejecutarlo, los usuarios deben tener privilegios de administrador local. Si no los tienen, deben utilizarse las herramientas y procesos estándar de despliegue.
+Antes de ejecutarlo, los usuarios deben tener privilegios de administrador local. Si no los tienen, deben utilizar las herramientas y procesos estándar de despliegue.
 
 ## Mejores prácticas con ODT
 
@@ -555,3 +555,142 @@ Ejemplo:
 * **Enabled:** si es `TRUE` (valor predeterminado), Click-to-Run detecta, descarga e instala automáticamente las actualizaciones.
 * **UpdatePath:** especifica una ruta de red, local o HTTP que Click-to-Run utiliza como origen de actualizaciones. Si no se establece o se configura como `default`, utiliza el origen de Click-to-Run en Internet.
 * **TargetVersion:** establece un número de build específico, por ejemplo `16.0.6366.2036`, para la siguiente actualización. Si no se establece o se configura como `default`, Click-to-Run actualiza a la versión más reciente disponible en el origen de Click-to-Run.
+
+# Explore the update channels for Microsoft 365 Apps for enterprise
+
+Los **update channels** permiten controlar con qué frecuencia los usuarios reciben nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con seguridad.
+
+Las actualizaciones no relacionadas con seguridad incluyen correcciones de problemas conocidos y mejoras de estabilidad o rendimiento.
+
+Existen tres canales principales:
+
+* **Current Channel**
+* **Monthly Enterprise Channel**
+* **Semi-Annual Enterprise Channel**
+
+## Current Channel
+
+Proporciona las nuevas características de Office tan pronto como están disponibles.
+
+* Normalmente recibe nuevas características al menos una vez al mes.
+* No tiene un calendario fijo para las nuevas características.
+* También recibe actualizaciones de seguridad y no relacionadas con seguridad durante el mes.
+* Generalmente recibe dos o tres releases por mes, incluyendo una el segundo martes.
+
+### Current Channel (Preview)
+
+Es la versión de preview de Current Channel.
+
+* Permite familiarizarse con las nuevas características antes de su lanzamiento en Current Channel.
+* No tiene un calendario fijo.
+* Generalmente recibe una nueva versión al menos una semana antes que Current Channel.
+* Puede recibir varias actualizaciones no relacionadas con seguridad antes del lanzamiento a Current Channel.
+* Microsoft recomienda desplegarlo a un grupo pequeño y representativo de usuarios.
+* Permite identificar problemas antes del despliegue general y solicitar correcciones a Microsoft.
+* Puede reducir la cantidad de actualizaciones no relacionadas con seguridad necesarias posteriormente en Current Channel.
+
+## Monthly Enterprise Channel
+
+Proporciona nuevas características de Office cada mes.
+
+Microsoft recomienda este canal cuando una organización necesita **un único update mensual con un calendario predecible**.
+
+* Las actualizaciones se publican el **segundo martes de cada mes**.
+* Pueden incluir características, actualizaciones de seguridad y actualizaciones no relacionadas con seguridad.
+* No existe un canal de preview dedicado.
+
+Una organización puede hacer que un grupo representativo utilice la nueva versión cuando esté disponible en Office CDN y posteriormente desplegarla al resto de la organización durante varios días.
+
+## Semi-Annual Enterprise Channel
+
+Microsoft recomienda este canal para dispositivos que necesitan **pruebas extensivas** antes de recibir nuevas características.
+
+Puede utilizarse cuando:
+
+* Existen requisitos regulatorios, gubernamentales u otros requisitos empresariales.
+* Los usuarios no pueden recibir nuevas características con una frecuencia mayor a dos veces al año.
+
+Las actualizaciones se publican el **segundo martes del mes**.
+
+* En **enero y julio**, pueden incluir características, actualizaciones de seguridad y actualizaciones no relacionadas con seguridad.
+* En los demás meses, pueden incluir actualizaciones de seguridad y no relacionadas con seguridad.
+
+### Semi-Annual Enterprise Channel (Preview)
+
+Es el canal de preview de Semi-Annual Enterprise Channel.
+
+* Permite familiarizarse con las nuevas características antes de su lanzamiento al canal Semi-Annual Enterprise.
+* Microsoft publica nuevas características dos veces al año:
+
+  * Segundo martes de marzo.
+  * Segundo martes de septiembre.
+* Esto proporciona **cuatro meses** antes de que esas características lleguen a Semi-Annual Enterprise Channel.
+* Puede recibir actualizaciones de seguridad y no relacionadas con seguridad mensualmente, el segundo martes.
+* Microsoft recomienda desplegarlo a un grupo pequeño y representativo.
+* Permite detectar problemas antes del despliegue general.
+* También proporciona cuatro meses para identificar problemas que Microsoft pueda corregir antes del lanzamiento al Semi-Annual Enterprise Channel.
+
+Una vez que una versión llega a Semi-Annual Enterprise Channel, el proceso de aprobación de actualizaciones no relacionadas con seguridad es más riguroso.
+
+## Recomendaciones de canales
+
+* **Current Channel:** recomendado cuando se necesitan las características más nuevas tan pronto como estén disponibles.
+* **Monthly Enterprise Channel:** recomendado cuando se necesita un calendario mensual predecible.
+* **Semi-Annual Enterprise Channel:** recomendado para dispositivos que requieren pruebas extensivas antes de recibir nuevas características.
+
+La elección del canal también depende de:
+
+* Uso de ancho de banda.
+* Capacitación y soporte de usuarios finales.
+* Aplicaciones de línea de negocio.
+* Otros requisitos organizacionales.
+
+El uso de usuarios específicos para probar nuevas versiones es una parte importante de la administración continua de versiones en entornos empresariales.
+
+## Configurar usuarios para los update channels
+
+Los administradores de Microsoft 365 pueden aplicar los canales mediante:
+
+### Microsoft 365 admin center
+
+Ruta:
+
+**Organization settings → Services → Office installation options**
+
+Opciones:
+
+* **As soon as updates are ready** → Current Channel.
+* **Once a month** → Monthly Enterprise Channel.
+* **Every six months** → Semi-Annual Enterprise Channel.
+
+Microsoft recomienda **Current Channel**, es decir, recibir las actualizaciones tan pronto como estén disponibles.
+
+Si una organización cambia de actualizaciones mensuales a actualizaciones cada seis meses, los usuarios perderán las actualizaciones correspondientes a futuras releases.
+
+El Microsoft 365 admin center no ofrece una opción **Deferred Channel**.
+
+### Office Deployment Tool
+
+Mediante la versión de Office 2016 del ODT, se puede modificar `configuration.xml` para establecer:
+
+* Current Channel.
+* Monthly Enterprise Channel.
+* Semi-Annual Enterprise Channel.
+
+Diferentes usuarios pueden utilizar diferentes archivos `configuration.xml` para establecer distintos calendarios de actualización.
+
+### Group Policy
+
+Los archivos **Office Administrative Template** permiten configurar la rapidez con la que se proporcionan las actualizaciones.
+
+Después de descargar los templates, se puede crear un **Group Policy Object** para definir el canal disponible para los usuarios.
+
+Ruta:
+
+**Configuration → Administrative Templates → Microsoft Office 2016 (Machine) → Updates**
+
+Opciones:
+
+* Current.
+* Monthly Enterprise.
+* Semi-Annual Enterprise.
