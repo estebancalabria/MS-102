@@ -1,4 +1,4 @@
-# Learning Path 7 - Lab 7 - Exercise 1 - Configure In-place Archiving and Retention Policies
+# Lab 7 - Configure In-place Archiving and Retention Policies
 
 > En este ejercicio se habilita el archive mailbox de Holly Dickson desde Exchange Online y se configuran dos retention policies en Microsoft Purview.
 >
