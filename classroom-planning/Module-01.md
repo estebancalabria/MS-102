@@ -55,34 +55,37 @@
 
 ---
 
-[PRÁCTICO] Laboratorio 2
+## Bloque 6 -[PRÁCTICO] Laboratorio 2
 
 * https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_01_Lab1_Ex2_Manage_Users_and_Groups.md
 
-[TEÓRICO] Dominios personalizados
+---
 
-Slides 41-48
-Planificación de dominios
-DNS Zones
-DNS Records
-TXT, MX, SPF, CNAME, SRV
-Alta de dominio en Microsoft 365
-45-60 min
+## Bloque 7 -[TEÓRICO] Dominios personalizados (Slides 41-48)(45-60 min)
 
-[PRÁCTICO] Laboratorio 3
+* Planificación de dominios
+* DNS Zones
+* DNS Records
+* TXT, MX, SPF, CNAME, SRV
+* Alta de dominio en Microsoft 365
+
+---
+
+## Bloque 8 -[PRÁCTICO] Laboratorio 3
 
 * https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_01_Lab1_Ex3_Add_a_Domain.md
 
-[TEÓRICO] Conectividad de clientes
+--
 
-Slides 51-58
-Autodiscover
-DNS para Outlook
-MAPI over HTTP
-RCA
-SaRA
-Troubleshooting
-35-45 min
+## Bloque 9 - [TEÓRICO] Conectividad de clientes (Slides 51-58) (35-45 min)
+
+
+* Autodiscover
+* DNS para Outlook
+* MAPI over HTTP
+* RCA
+* SaRA
+* Troubleshooting
 
 [TEÓRICO] Cierre
 
