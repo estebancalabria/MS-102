@@ -28,16 +28,15 @@
 
 ---
 
-## Bloque 4 -[TEÓRICO] Usuarios, licencias e invitados (60-75 min)
+## Bloque 4 -[TEÓRICO] Usuarios, licencias e invitados (60-75 min) (Slides 17-29)
 
-Slides 17-29
-Cloud / Sync / Federated Identities
-Creación y administración de usuarios
-Licencias
-Usuarios eliminados
-Bulk Operations
-Guest Users (B2B)
-Mail Contacts
+* Cloud / Sync / Federated Identities
+* Creación y administración de usuarios
+* Licencias
+* Usuarios eliminados
+* Bulk Operations
+* Guest Users (B2B)
+* Mail Contacts
 
 
 ---
