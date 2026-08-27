@@ -87,10 +87,3 @@
 * SaRA
 * Troubleshooting
 
-[TEÓRICO] Cierre
-
-Slides 59-61
-Review
-Preguntas
-Conclusiones
-10-15 min
