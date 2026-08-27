@@ -41,29 +41,23 @@
 
 ---
 
-## Bloque 5 - [TEÓRICO] Grupos
+## Bloque 5 - [TEÓRICO] Grupos (45-60 min) (Slides 30-38)
 
-Slides 30-38
-Microsoft 365 Groups
-Distribution Groups
-Security Groups
-Mail Enabled Security Groups
-Dynamic Groups
-Shared Mailboxes
-Naming Policy
-Groups en Exchange y SharePoint
-45-60 min
+* Microsoft 365 Groups
+* Distribution Groups
+* Security Groups
+* Mail Enabled Security Groups
+* Dynamic Groups
+* Shared Mailboxes
+* Naming Policy
+* Groups en Exchange y SharePoint
 
---
+
+---
 
 [PRÁCTICO] Laboratorio 2
 
-Slides 39-40
-Crear usuarios
-Actualizar grupos
-Crear grupos
-Recuperar grupos con PowerShell
-30-45 min
+* https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_01_Lab1_Ex2_Manage_Users_and_Groups.md
 
 [TEÓRICO] Dominios personalizados
 
@@ -77,10 +71,7 @@ Alta de dominio en Microsoft 365
 
 [PRÁCTICO] Laboratorio 3
 
-Slides 49-50
-Agregar dominio personalizado
-Validar DNS
-20-30 min
+* https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_01_Lab1_Ex3_Add_a_Domain.md
 
 [TEÓRICO] Conectividad de clientes
 
