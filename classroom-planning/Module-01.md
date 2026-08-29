@@ -1,25 +1,21 @@
 # Clase MS-102 - Learning Path 1
 
-## Bloque 1 - [TEÓRICO] Introducción (10 min)
-
-    Slides 1-2
-    Agenda y objetivos
+## Bloque 1 - [TEÓRICO] Introducción (10 min) (Slides 1-2)
     
-
+    * Agenda y objetivos
+    
 ---
 
-## Bloque 2 - [TEÓRICO] Configuración inicial del tenant (50-60 min)
-
-    Slides 3-14
-    Tenant, suscripciones y licencias
-    Organization Profile
-    Billing y servicios adicionales
-    SharePoint / OneDrive Sharing
-    Teams Settings
-    Audit Logging
-    Tenant Readiness Checklist
+## Bloque 2 - [TEÓRICO] Configuración inicial del tenant (50-60 min) (Slides 3-14(
     
-
+    * Tenant, suscripciones y licencias
+    * Organization Profile
+    * Billing y servicios adicionales
+    * SharePoint / OneDrive Sharing
+    * Teams Settings
+    * Audit Logging
+    * Tenant Readiness Checklist
+    
 ---
 
 ## Bloque 3 -[PRÁCTICO] Laboratorio 1 (Slides 15-16)
@@ -78,7 +74,6 @@
 --
 
 ## Bloque 9 - [TEÓRICO] Conectividad de clientes (Slides 51-58) (35-45 min)
-
 
 * Autodiscover
 * DNS para Outlook
