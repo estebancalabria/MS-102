@@ -73,8 +73,8 @@
 
 ## Bloque 5 - [PRÁCTICO] Laboratorio 1 (Slides 31-32)
 
-[LINK EJERCICIO]
-
+* https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_03_Lab3_Ex1_Prepare_Identity_Synch.md
+* https://github.com/estebancalabria/MS-102/tree/main/Labs/LAB-0300-MS-Identity-Sync
 ---
 
 ## Bloque 6 - [TEÓRICO] Administración de identidades sincronizadas (75-90 min) (Slides 33-43)
@@ -110,8 +110,9 @@
 
 ## Bloque 7 - [PRÁCTICO] Laboratorio 2 (Slides 44-45)
 
-[LINK EJERCICIO]
-
+* https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_03_Lab3_Ex2_Implement_Identity_Synch.md
+* https://github.com/estebancalabria/MS-102/tree/main/Labs/LAB-0300-MS-Identity-Sync
+  
 ---
 
 ## Bloque 8 - [TEÓRICO] Revisión de la Learning Path (15-20 min) (Slides 46-48)
