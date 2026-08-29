@@ -8,7 +8,7 @@
 
 ## Mensaje principal
 
-Las directivas y etiquetas de retención permiten conservar, eliminar o conservar y posteriormente eliminar contenido en Microsoft 365. 【1-8f8a3f】
+Las directivas y etiquetas de retención permiten conservar, eliminar o conservar y posteriormente eliminar contenido en Microsoft 365.
 
 ## Demo
 
