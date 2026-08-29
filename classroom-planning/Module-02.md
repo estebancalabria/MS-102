@@ -49,7 +49,8 @@
 
 ## Bloque 5 - [PRÁCTICO] Laboratorio 2 (Slides 30-31)
 
-[LINK EJERCICIO]
+* https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_02_Lab2_Ex2_Monitor_Microsoft_365.md
+* https://github.com/estebancalabria/MS-102/blob/main/Labs/LAB-0230-MS-Troubleshoot/Readme.md
 
 ---
 
@@ -80,7 +81,8 @@
 
 ## Bloque 7 - [PRÁCTICO] Laboratorio 3 (Slides 46-47)
 
-[LINK EJERCICIO]
+* https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_02_Lab2_Ex3_M365_Apps.md
+* https://github.com/estebancalabria/MS-102/blob/main/Labs/LAB-0260-MS-Manage-Apps/Readme.md
 
 ---
 
