@@ -19,7 +19,6 @@
 * Administrative Units
 * Permisos de SharePoint y prevención de oversharing
 * Privileged Identity Management
-* 
 ---
 
 ## Bloque 3 - [PRÁCTICO] Laboratorio 1 (Slides 17-18)
