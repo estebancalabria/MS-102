@@ -89,10 +89,6 @@
 * Administración de grupos mediante sincronización de directorios
 * Group Writeback
 * Grupos de seguridad de Microsoft Entra Connect Sync
-* ADSyncAdmins
-* ADSyncOperators
-* ADSyncBrowse
-* ADSyncPasswordSet
 * Configuración de filtros de objetos
 * Eliminación de objetos mediante filtrado
 * Desactivación de la tarea de sincronización programada
