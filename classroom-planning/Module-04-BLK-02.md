@@ -8,7 +8,7 @@
 
 ## Mensaje principal
 
-El phishing es uno de los vectores de ataque más utilizados para obtener credenciales y acceso a los sistemas corporativos mediante correos aparentemente legítimos. 【1-ee5764】
+El phishing es uno de los vectores de ataque más utilizados para obtener credenciales y acceso a los sistemas corporativos mediante correos aparentemente legítimos. 
 
 ## Demo
 
@@ -28,7 +28,7 @@ El phishing es uno de los vectores de ataque más utilizados para obtener creden
 
 ## Mensaje principal
 
-El spoofing busca hacer creer al usuario que un correo fue enviado por una organización o remitente legítimo cuando en realidad proviene de un atacante. 【1-ee5764】
+El spoofing busca hacer creer al usuario que un correo fue enviado por una organización o remitente legítimo cuando en realidad proviene de un atacante.
 
 ## Demo
 
@@ -46,7 +46,7 @@ El spoofing busca hacer creer al usuario que un correo fue enviado por una organ
 
 ## Mensaje principal
 
-El malware suele distribuirse mediante correo electrónico utilizando archivos adjuntos o enlaces maliciosos que buscan comprometer dispositivos y datos corporativos. 【1-ee5764】
+El malware suele distribuirse mediante correo electrónico utilizando archivos adjuntos o enlaces maliciosos que buscan comprometer dispositivos y datos corporativos.
 
 ## Demo
 
@@ -66,7 +66,7 @@ El malware suele distribuirse mediante correo electrónico utilizando archivos a
 
 ## Mensaje principal
 
-Las cuentas comprometidas permiten a los atacantes acceder a recursos corporativos utilizando credenciales válidas y normalmente son el punto de inicio de ataques más avanzados. 【1-ee5764】
+Las cuentas comprometidas permiten a los atacantes acceder a recursos corporativos utilizando credenciales válidas y normalmente son el punto de inicio de ataques más avanzados. 
 
 ## Demo
 
@@ -86,7 +86,7 @@ Las cuentas comprometidas permiten a los atacantes acceder a recursos corporativ
 
 ## Mensaje principal
 
-La protección de datos requiere controles que eviten tanto la extracción no autorizada de información como la eliminación maliciosa de contenido crítico. 【1-ee5764】
+La protección de datos requiere controles que eviten tanto la extracción no autorizada de información como la eliminación maliciosa de contenido crítico.
 
 ## Demo
 
@@ -106,7 +106,7 @@ La protección de datos requiere controles que eviten tanto la extracción no au
 
 ## Mensaje principal
 
-La exposición accidental ocurre cuando usuarios comparten contenido sensible fuera de los límites previstos por la organización, muchas veces sin intención maliciosa. 【1-ee5764】
+La exposición accidental ocurre cuando usuarios comparten contenido sensible fuera de los límites previstos por la organización, muchas veces sin intención maliciosa.
 
 ## Demo
 
@@ -124,7 +124,7 @@ La exposición accidental ocurre cuando usuarios comparten contenido sensible fu
 
 ## Mensaje principal
 
-Las contraseñas débiles y el uso indebido de privilegios siguen siendo causas habituales de incidentes de seguridad tanto internos como externos. 【1-ee5764】
+Las contraseñas débiles y el uso indebido de privilegios siguen siendo causas habituales de incidentes de seguridad tanto internos como externos.
 
 ## Demo
 
