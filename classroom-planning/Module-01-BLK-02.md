@@ -29,6 +29,9 @@ El tenant es el límite administrativo de la organización dentro de Microsoft 3
      * [MENU] Billing -> Your products
         * 👁️ -> Microsoft Power Apps for Developer
         * [LINK] Add More Products (Marketplace)
+            * [ ] Tildar checkbox de hasta 3 productos a comparar
+            * [LINK] Compare products
+                 * 👁️ -> Tabla comparativa lado a lado (features por producto)
      * [MENU] Billing -> Licenses
         * 👁️ ->Microsoft 365 E5
         * Microsoft 365 E5
