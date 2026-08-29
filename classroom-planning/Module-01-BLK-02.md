@@ -10,13 +10,7 @@
 
 Cuando una organización compra Microsoft 365 no solamente adquiere licencias.
 
-Microsoft crea un tenant de Microsoft Entra ID donde se almacenan:
-
-- Usuarios
-- Grupos
-- Aplicaciones
-- Configuraciones
-- Políticas
+Microsoft crea un tenant de Microsoft Entra ID donde se almacenan Usuarios, Grupos, Aplicaciones, Configuraciones, Políticas
 
 El tenant es el límite administrativo de la organización dentro de Microsoft 365. 【1-62c152】
 
