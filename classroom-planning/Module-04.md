@@ -53,7 +53,8 @@
 
 ## Bloque 5 - [PRÁCTICO] Laboratorio 4 - Ejercicio 1 (Slides 39-40)
 
-[LINK EJERCICIO]
+* https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_04_Lab4_Ex1_Manage_secure_user_access.md
+* https://github.com/estebancalabria/MS-102/tree/main/Labs/LAB-0400-MS-Conditional-Access
 
 ---
 
@@ -104,8 +105,9 @@
 
 ## Bloque 9 - [PRÁCTICO] Laboratorio 4 - Ejercicios 2, 3 y 4 (Slides 69-72)
 
-[LINK EJERCICIO]
-
+* https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_04_Lab4_Ex2_PIM_Admin_Approval.md
+* https://github.com/estebancalabria/MS-102/tree/main/Labs/LAB-0440-MS-PIM
+  
 ---
 
 ## Bloque 10 - [TEÓRICO] Análisis de Microsoft Entra ID Protection (45-60 min) (Slides 73-80)
