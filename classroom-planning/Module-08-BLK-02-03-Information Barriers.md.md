@@ -1,4 +1,4 @@
-# [TEÓRICO] Implementar Microsoft Purview Information Barriers (**Slides:** 22-31)  
+# Information Barriers (**Slides:** 22-31)  
 
 ---
 
