@@ -1,98 +1,65 @@
-# [TEÓRICO] Explorar el cumplimiento en Microsoft 365
-**Slides:** 3-12
-**Duración:** 60-75 minutos
+# Explorar el cumplimiento en Microsoft 365 (Slides 3-12)
 
----
+## 1. Microsoft Purview y cumplimiento en Microsoft 365 (Slides 4-6)
 
-# 1. Planificación de seguridad y cumplimiento en Microsoft 365 (Slides 4-6)
+Microsoft Purview proporciona funcionalidades para proteger, gobernar y administrar los datos de Microsoft 365. 
 
-## Mensaje principal
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Audit
+        * 👁️ -> Audit search
+        * 👁️ -> Activity history
+        * 👁️ -> Export results
+    * [MENU] Solutions → Information Protection
+        * 👁️ -> Sensitivity labels
+        * 👁️ -> Label policies
+        * 👁️ -> Auto-labeling
+    * [MENU] Solutions → Data Lifecycle Management
+        * 👁️ -> Retention policies
+        * 👁️ -> Retention labels
+        * 👁️ -> Auto-apply labels
+    * [MENU] Solutions → eDiscovery
+        * 👁️ -> Cases
+        * 👁️ -> Searches
+        * 👁️ -> Holds
+    * [MENU] Solutions → Insider Risk Management
+        * 👁️ -> Policies
+        * 👁️ -> Alerts
+        * 👁️ -> Cases
 
-Microsoft 365 y Microsoft Purview proporcionan las capacidades necesarias para proteger identidades, dispositivos, datos y requisitos regulatorios mediante una estrategia unificada de seguridad y cumplimiento. 【1-d22882】
+## 2. Tareas iniciales de cumplimiento en Microsoft Purview (Slide 6)
 
-## Demo
+Las tareas iniciales incluyen auditoría, clasificación de información y retención de datos. 
 
-* [BROWSER] https://compliance.microsoft.com
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Audit
+        * 👁️ -> Search
+        * 👁️ -> Activities
+        * 👁️ -> Date filters
+    * [MENU] Solutions → Information Protection
+        * 👁️ -> Sensitivity labels
+        * 👁️ -> Published labels
+    * [MENU] Solutions → Data Lifecycle Management
+        * 👁️ -> Retention policies
+        * 👁️ -> Retention labels
 
-    * 👁️ -> Página principal de Microsoft Purview
+## 3. Compliance Manager (Slides 7-9)
 
-    * 👁️ -> Soluciones disponibles
+Compliance Manager ayuda a evaluar requisitos regulatorios y administrar acciones de mejora. 
 
-    * 👁️ -> Navegación de Compliance
-
-    * 👁️ -> Áreas de protección y cumplimiento
-
----
-
-# 2. Tareas iniciales de cumplimiento en Microsoft Purview (Slide 6)
-
-## Mensaje principal
-
-Las primeras tareas de cumplimiento incluyen auditoría, clasificación de información, alertas de cumplimiento y configuración de retención para proteger los datos corporativos. 
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Solutions
-
-        * 👁️ -> Audit
-
-        * 👁️ -> Data Lifecycle Management
-
-        * 👁️ -> Information Protection
-
-        * 👁️ -> Alert Policies
-
----
-
-# 3. Compliance Manager (Slides 7-9)
-
-## Mensaje principal
-
-Compliance Manager ayuda a evaluar riesgos, administrar controles regulatorios y ejecutar acciones de mejora para incrementar el nivel de cumplimiento de la organización. 
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Compliance Manager
-
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Compliance Manager
         * 👁️ -> Overview
-
         * 👁️ -> Assessments
-
-        * 👁️ -> Improvement Actions
-
+        * 👁️ -> Improvement actions
         * 👁️ -> Regulatory templates
 
----
+## 4. Compliance Score (Slide 10)
 
-# 4. Microsoft Compliance Score (Slide 10)
+Compliance Score muestra el progreso de cumplimiento basado en acciones implementadas y pendientes.
 
-## Mensaje principal
-
-Compliance Score mide el progreso de la organización respecto de acciones recomendadas para reducir riesgos y mejorar el cumplimiento normativo. 
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Compliance Manager
-
-        * 👁️ -> Compliance Score
-
-        * 👁️ -> Puntuación por evaluación
-
-        * 👁️ -> Improvement Actions
-
-        * 👁️ -> Distribución de puntos obtenidos
-
----
-
-# Resumen del bloque
-
-1. Comprender el enfoque de cumplimiento en Microsoft 365 y Microsoft Purview.
-2. Revisar las tareas iniciales de cumplimiento.
-3. Explorar Compliance Manager.
-4. Analizar Compliance Score.
-5. Identificar acciones de mejora para reducir riesgos.
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Compliance Manager
+        * 👁️ -> Compliance score
+        * 👁️ -> Assessment score
+        * 👁️ -> Improvement actions
+        * 👁️ -> Points breakdown
