@@ -32,13 +32,13 @@ Adoption Score mide qué tan bien los usuarios están aprovechando Microsoft 365
 
 * [BROWSER] https://admin.cloud.microsoft/
     * [MENU] Reports → Adoption Score
-         👁️ -> Communication: Uso de comunicación digital
-         👁️ -> Content collaboration: Colaboración en documentos
-         👁️ -> Teamwork: Trabajo en espacios compartidos
-         👁️ -> Mobility: Acceso desde cualquier dispositivo
-         👁️ -> AI adoption: Uso de Microsoft Copilot
-         👁️ -> Peer benchmark: Comparación con organizaciones similares
-         👁️ -> Total Adoption Score: Puntaje global de adopción
+       * 👁️ -> Communication: Uso de comunicación digital
+       * 👁️ -> Content collaboration: Colaboración en documentos
+       * 👁️ -> Teamwork: Trabajo en espacios compartidos
+       * 👁️ -> Mobility: Acceso desde cualquier dispositivo
+       * 👁️ -> AI adoption: Uso de Microsoft Copilot
+       * 👁️ -> Peer benchmark: Comparación con organizaciones similares
+       * 👁️ -> Total Adoption Score: Puntaje global de adopción
 
 ---
 
