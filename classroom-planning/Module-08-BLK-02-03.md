@@ -106,12 +106,4 @@ Information Barriers también puede restringir el acceso a sitios, contenido y r
 
         * 👁️ -> Estado de implementación de la política
 
----
 
-# Resumen del bloque
-
-1. Comprender el propósito de Information Barriers.
-2. Revisar la creación de segmentos.
-3. Analizar las políticas de aislamiento.
-4. Entender el impacto en Teams.
-5. Entender el impacto en OneDrive y SharePoint.
