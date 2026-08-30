@@ -8,11 +8,7 @@
 
 ## Mensaje principal
 
-Cuando una organización compra Microsoft 365 no solamente adquiere licencias.
-
-Microsoft crea un tenant de Microsoft Entra ID donde se almacenan Usuarios, Grupos, Aplicaciones, Configuraciones, Políticas
-
-El tenant es el límite administrativo de la organización dentro de Microsoft 365. 【1-62c152】
+Cuando una organización compra Microsoft 365 no solamente adquiere licencias. Microsoft crea un tenant de Microsoft Entra ID donde se almacenan Usuarios, Grupos, Aplicaciones, Configuraciones, Políticas. El tenant es el límite administrativo de la organización dentro de Microsoft 365. 【1-62c152】
 
 ## Demo
 
@@ -40,13 +36,7 @@ El tenant es el límite administrativo de la organización dentro de Microsoft 3
 
 ## Mensaje principal
 
-* Antes de crear usuarios debemos definir la identidad de la organización.
-* El perfil organizativo incluye varias cosas como nombre, direccion, etc
-* La región elegida durante la creación del tenant es muy importante porque afecta:
-- Servicios disponibles
-- Facturación
-- Regulaciones
-- Ubicación de datos
+* Antes de crear usuarios debemos definir la identidad de la organización. El perfil organizativo incluye varias cosas como nombre, direccion, etc. La región elegida durante la creación del tenant es muy importante porque afecta Servicios disponibles, Facturación, Regulaciones, Ubicación de datos
 
 
 ## Demo
@@ -64,16 +54,7 @@ El tenant es el límite administrativo de la organización dentro de Microsoft 3
 
 ## Mensaje principal
 
-Una de las primeras decisiones de seguridad consiste en definir cómo se compartirá información con usuarios externos.
-
-La configuración existe en varios niveles:
-
-```text
-Tenant
-   ↓
-SharePoint
-   ↓
-Sitio
+Una de las primeras decisiones de seguridad consiste en definir cómo se compartirá información con usuarios externos. La configuración existe en varios niveles: Tenant -> SharePoint -> Sitio
 ```
 
 ## Demo
@@ -85,11 +66,8 @@ Sitio
 * [BROWSER] https://xxxx-admin.sharepoint.com
      * [MENU] Policies → Sharing
 
-
-* Explicación
-   * Esta configuración controla cómo se comparte información fuera de la organización.
-   * La configuración más restrictiva siempre prevalece. ``
-
+* Esta configuración controla cómo se comparte información fuera de la organización.
+* La configuración más restrictiva siempre prevalece.
 
 ---
 
@@ -121,16 +99,7 @@ Teams debe ser gobernado. Existen configuraciones Organizativas, Políticas de r
 
 ## Mensaje principal
 
-La auditoría permite responder preguntas como:
-
-- ¿Quién eliminó un usuario?
-- ¿Quién compartió un archivo?
-- ¿Quién modificó una configuración?
-- ¿Quién creó un Team?
-
-Entra ID muestra quién inició sesión.
-
-Purview Audit muestra qué acciones realizaron los usuarios y administradores después. 【1-c77bd8】
+La auditoría permite responder ¿Quién eliminó un usuario?,  ¿Quién compartió un archivo?, ¿Quién modificó una configuración?, ¿Quién creó un Team?. Entra ID muestra quién inició sesión.Purview Audit muestra qué acciones realizaron los usuarios y administradores después. 
 
 ## Demo
 
@@ -147,8 +116,7 @@ Purview Audit muestra qué acciones realizaron los usuarios y administradores de
 
 ## Explicación
 
-* Microsoft centraliza la auditoría de Microsoft 365 en Purview.
-* Desde aquí pueden investigarse acciones realizadas sobre usuarios, grupos, archivos, Teams y otros servicios.
+* Microsoft centraliza la auditoría de Microsoft 365 en Purview. Desde aquí pueden investigarse acciones realizadas sobre usuarios, grupos, archivos, Teams y otros servicios.
 
 ---
 
