@@ -26,16 +26,19 @@ Microsoft 365 proporciona herramientas para supervisar el estado de los servicio
 
 ## Mensaje principal
 
-Adoption Score permite medir el nivel de adopción de Microsoft 365 dentro de la organización mediante indicadores relacionados con personas y tecnología.
+Adoption Score mide qué tan bien los usuarios están aprovechando Microsoft 365 para comunicarse, colaborar, trabajar en equipo, usar dispositivos móviles y adoptar capacidades de IA.
 
 ## Demo
 
 * [BROWSER] https://admin.cloud.microsoft/
     * [MENU] Reports → Adoption Score
-
-        * 👁️ -> Adoption Score general
-        * 👁️ -> People Experiences
-        * 👁️ -> Technology Experiences
+         👁️ -> Communication: Uso de comunicación digital
+         👁️ -> Content collaboration: Colaboración en documentos
+         👁️ -> Teamwork: Trabajo en espacios compartidos
+         👁️ -> Mobility: Acceso desde cualquier dispositivo
+         👁️ -> AI adoption: Uso de Microsoft Copilot
+         👁️ -> Peer benchmark: Comparación con organizaciones similares
+         👁️ -> Total Adoption Score: Puntaje global de adopción
 
 ---
 
@@ -67,11 +70,7 @@ Microsoft proporciona herramientas para evaluar la conectividad entre los usuari
 ## Demo
 
 * [BROWSER] https://admin.cloud.microsoft/
-    * [MENU] Health → Connectivity
-
-        * 👁️ -> Network Connectivity
-        * 👁️ -> Assessments
-        * 👁️ -> Connectivity Insights
+    * [MENU] Health → Network Connectivity
 
 ---
 
@@ -84,32 +83,8 @@ Microsoft 365 Backup permite realizar copias de seguridad y restauraciones de Ex
 ## Demo
 
 * [BROWSER] https://admin.microsoft.com
+    * [MENU] Settings ->-> Microsoft 365 Backup
 
-    * [SEARCH] Backup
-
-        * 👁️ -> Microsoft 365 Backup
-
-(Dependiendo de la licencia y tenant puede no estar disponible)
-
----
-
-# 7. Plan de respuesta ante incidentes (Slide 26)
-
-## Mensaje principal
-
-Cuando ocurre una degradación o interrupción del servicio es importante validar el impacto, revisar el alcance del incidente y definir acciones temporales hasta la recuperación del servicio.
-
-## Demo
-
-* [BROWSER] https://admin.cloud.microsoft/
-    * [MENU] Health → Service health
-
-        * [ITEM] Seleccionar incidente
-
-            * 👁️ -> Estado actual
-            * 👁️ -> Timeline
-            * 👁️ -> Impacto reportado
-            * 👁️ -> Información publicada por Microsoft
 
 ---
 
@@ -122,32 +97,9 @@ Los administradores pueden crear solicitudes de soporte directamente desde Micro
 ## Demo
 
 * [BROWSER] https://admin.cloud.microsoft/
+    * [MENU] -> Help & Support
+        * Chateo con copilot
 
-    * [MENU] Help & Support
 
-        * 👁️ -> Crear solicitud
-
-        * 👁️ -> Casos abiertos
-
-        * 👁️ -> Historial de solicitudes
-
----
-
-# 9. Severidad de solicitudes de soporte (Slide 27)
-
-## Mensaje principal
-
-Microsoft clasifica los incidentes según el impacto que tienen sobre la organización para priorizar la atención y la resolución del problema.
-
-## Demo
-
-* [BROWSER] https://admin.cloud.microsoft/
-
-    * [MENU] Help & Support
-
-        * [BUTTON] New service request
-
-            * 👁️ -> Clasificación del caso
-            * 👁️ -> Impacto del incidente
 
 
