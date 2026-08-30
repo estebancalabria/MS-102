@@ -63,7 +63,7 @@
 
 * https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/blob/master/Instructions/Labs/LAB_AK_01_Lab1_Ex3_Add_a_Domain.md
 
---
+---
 
 ## Bloque 9 - [TEÓRICO] Conectividad de clientes (Slides 51-58) (35-45 min)
 
