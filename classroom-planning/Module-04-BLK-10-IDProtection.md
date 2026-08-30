@@ -4,7 +4,7 @@
 
 # 1. Riesgo de usuario y riesgo de inicio de sesión (Slides 75-76)
 
-Microsoft Entra ID Protection utiliza señales de riesgo y análisis basados en machine learning para detectar identidades potencialmente comprometidas y accesos sospechosos. 【1-8134d2】
+Microsoft Entra ID Protection utiliza señales de riesgo y análisis basados en machine learning para detectar identidades potencialmente comprometidas y accesos sospechosos. 
 
 * [BROWSER] https://entra.microsoft.com
     * [MENU] Protection → Identity Protection → Risky users
@@ -19,7 +19,7 @@ Microsoft Entra ID Protection utiliza señales de riesgo y análisis basados en 
 
 # 2. Directivas basadas en riesgo (Slide 76)
 
-Las políticas basadas en riesgo permiten automatizar respuestas frente a accesos sospechosos o identidades comprometidas aplicando MFA o bloqueando el acceso según el nivel de riesgo detectado. 【1-8134d2】
+Las políticas basadas en riesgo permiten automatizar respuestas frente a accesos sospechosos o identidades comprometidas aplicando MFA o bloqueando el acceso según el nivel de riesgo detectado. 
 
 
 * [BROWSER] https://entra.microsoft.com
@@ -36,7 +36,7 @@ Las políticas basadas en riesgo permiten automatizar respuestas frente a acceso
 # 3. Vulnerabilidades y detección de eventos de riesgo (Slide 77)
 
 
-Identity Protection identifica vulnerabilidades y actividades potencialmente maliciosas, incluyendo credenciales filtradas, ubicaciones inusuales y accesos sospechosos. 【1-8134d2】
+Identity Protection identifica vulnerabilidades y actividades potencialmente maliciosas, incluyendo credenciales filtradas, ubicaciones inusuales y accesos sospechosos. 
 
 
 * [BROWSER] https://entra.microsoft.com
@@ -50,7 +50,7 @@ Identity Protection identifica vulnerabilidades y actividades potencialmente mal
 
 # 4. Investigación y mitigación de riesgos (Slide 78)
 
-El panel de Identity Protection permite investigar incidentes, priorizar riesgos y aplicar acciones para reducir el impacto de una posible identidad comprometida. 【1-8134d2】
+El panel de Identity Protection permite investigar incidentes, priorizar riesgos y aplicar acciones para reducir el impacto de una posible identidad comprometida. 
 
 
 * [BROWSER] https://entra.microsoft.com
