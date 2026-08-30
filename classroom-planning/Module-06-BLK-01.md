@@ -3,7 +3,7 @@
 
 # 1. Microsoft Intelligent Security Graph (Slide 5)
 
-Microsoft Intelligent Security Graph recopila miles de millones de señales de seguridad para proporcionar inteligencia de amenazas a Microsoft 365, Azure y Windows. 【1-f94c1f】
+Microsoft Intelligent Security Graph recopila miles de millones de señales de seguridad para proporcionar inteligencia de amenazas a Microsoft 365, Azure y Windows.
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Incidents & alerts → Incidents
@@ -14,7 +14,7 @@ Microsoft Intelligent Security Graph recopila miles de millones de señales de s
 
 # 2. Alertas e Incidentes en Microsoft Defender XDR (Slide 6)
 
-Las alertas representan eventos sospechosos o maliciosos, mientras que los incidentes agrupan alertas relacionadas para proporcionar el contexto completo de un ataque. 【1-f94c1f】
+Las alertas representan eventos sospechosos o maliciosos, mientras que los incidentes agrupan alertas relacionadas para proporcionar el contexto completo de un ataque. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Incidents & alerts → Alerts
@@ -27,7 +27,7 @@ Las alertas representan eventos sospechosos o maliciosos, mientras que los incid
 
 # 3. Automated Investigation and Response (AIR) (Slide 7)
 
-AIR permite investigar automáticamente amenazas conocidas y proponer o ejecutar acciones de remediación para reducir el tiempo de respuesta ante incidentes. 【1-f94c1f】
+AIR permite investigar automáticamente amenazas conocidas y proponer o ejecutar acciones de remediación para reducir el tiempo de respuesta ante incidentes. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Incidents & alerts → Alerts
@@ -38,7 +38,7 @@ AIR permite investigar automáticamente amenazas conocidas y proponer o ejecutar
 
 # 4. Threat Hunting y Advanced Hunting (Slides 8-9)
 
-Advanced Hunting permite buscar amenazas mediante consultas KQL sobre datos de dispositivos, correo electrónico, identidades y aplicaciones en la nube. 【1-f94c1f】
+Advanced Hunting permite buscar amenazas mediante consultas KQL sobre datos de dispositivos, correo electrónico, identidades y aplicaciones en la nube.
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Hunting → Advanced Hunting
@@ -50,7 +50,7 @@ Advanced Hunting permite buscar amenazas mediante consultas KQL sobre datos de d
 
 # 5. Threat Analytics e Informes (Slides 10-11)
 
-Threat Analytics proporciona inteligencia de amenazas, análisis de exposición y reportes que ayudan a priorizar riesgos y acciones de mitigación. 【1-f94c1f】
+Threat Analytics proporciona inteligencia de amenazas, análisis de exposición y reportes que ayudan a priorizar riesgos y acciones de mitigación. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Reports → Threat analytics
