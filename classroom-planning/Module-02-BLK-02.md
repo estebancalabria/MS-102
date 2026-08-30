@@ -6,8 +6,6 @@
 
 # 1. Modelo de permisos de Microsoft 365 (Slides 4-6)
 
-## Mensaje principal
-
 Microsoft 365 utiliza un modelo basado en:
 * Roles : Los roles definen qué puede hacer un administrador.
 * Scopes : Los scopes definen sobre qué objetos puede actuar.
@@ -30,8 +28,6 @@ Microsoft 365 utiliza un modelo basado en:
 
 # 2. Roles administrativos (Slides 7-9)
 
-## Mensaje principal
-
 No todos los administradores necesitan ser Global Administrator. Microsoft recomienda asignar únicamente los permisos necesarios para cada tarea.
 
 ## Demo
@@ -50,8 +46,6 @@ No todos los administradores necesitan ser Global Administrator. Microsoft recom
 ---
 
 # 3. Buenas prácticas para la asignación de roles (Slide 8)
-
-## Mensaje principal
 
 Microsoft recomienda:
 
@@ -76,8 +70,6 @@ Microsoft recomienda:
 
 # 4. Delegación administrativa a partners (Slide 10)
 
-## Mensaje principal
-
 Una organización puede delegar parte de la administración a un Partner Microsoft. Los partners pueden recibir permisos administrativos limitados o completos.
 
 ## Demo
@@ -90,8 +82,6 @@ Una organización puede delegar parte de la administración a un Partner Microso
 ---
 
 # 5. Role Groups (Slide 11)
-
-## Mensaje principal
 
 Los Role Groups permiten asignar permisos a grupos en lugar de hacerlo usuario por usuario. Esto simplifica la administración.
 
@@ -109,8 +99,6 @@ Los Role Groups permiten asignar permisos a grupos en lugar de hacerlo usuario p
 
 # 6. Administrative Units (Slide 12)
 
-## Mensaje principal
-
 Las Administrative Units permiten delegar administración sobre una parte específica de la organización. Cada unidad puede tener sus propios administradores.
 
 ## Demo
@@ -123,8 +111,6 @@ Las Administrative Units permiten delegar administración sobre una parte espec�
 ---
 
 # 7. Permisos de SharePoint y prevención de oversharing (Slide 13)
-
-## Mensaje principal
 
 Copilot y los usuarios pueden acceder a toda la información para la que tengan permisos. Por eso es importante revisar el modelo de permisos y compartición.
 
@@ -145,39 +131,18 @@ Copilot y los usuarios pueden acceder a toda la información para la que tengan 
             * [TAB] Permissions
                 * 👁️ -> Usuarios con acceso
 
-## Explicación
-
-* Un usuario solamente puede ver contenido para el que posee permisos.
-* Los permisos excesivos generan riesgo de oversharing.
 
 ---
 
 # 8. Privileged Identity Management (Slide 14)
 
-## Mensaje principal
-
-PIM permite otorgar privilegios temporales.
-
-Los administradores elevan permisos únicamente cuando los necesitan.
-
-Esto reduce la superficie de ataque.
+PIM permite otorgar privilegios temporales. Los administradores elevan permisos únicamente cuando los necesitan.
 
 ## Demo
 
 * [BROWSER] https://entra.microsoft.com
-
     * [MENU] Identity Governance → Privileged Identity Management
-
         * [MENU] Microsoft Entra Roles
-
             * 👁️ -> Eligible Assignments
-
             * 👁️ -> Active Assignments
-
             * 👁️ -> Activación Just-In-Time
-
-## Explicación
-
-* Un usuario puede ser elegible para un rol sin tenerlo activo permanentemente.
-* El acceso se activa durante un período determinado y luego se revoca automáticamente.
-
