@@ -1,12 +1,6 @@
-# [TEÓRICO] Configuración inicial del tenant
-**Slides:** 3-14  
-**Duración:** 50-60 minutos
-
+# [TEÓRICO] Configuración inicial del tenant (**Slides:** 3-14)  
 ---
-
 # 1. ¿Qué es un tenant? (Slides 3-5)
-
-## Mensaje principal
 
 Cuando una organización compra Microsoft 365 no solamente adquiere licencias. Microsoft crea un tenant de Microsoft Entra ID donde se almacenan Usuarios, Grupos, Aplicaciones, Configuraciones, Políticas. El tenant es el límite administrativo de la organización dentro de Microsoft 365. 
 
@@ -34,8 +28,6 @@ Cuando una organización compra Microsoft 365 no solamente adquiere licencias. M
 
 # 2. Configurar el Organizational Profile (Slide 6)
 
-## Mensaje principal
-
 * Antes de crear usuarios debemos definir la identidad de la organización. El perfil organizativo incluye varias cosas como nombre, direccion, etc. La región elegida durante la creación del tenant es muy importante porque afecta Servicios disponibles, Facturación, Regulaciones, Ubicación de datos
 
 
@@ -51,8 +43,6 @@ Cuando una organización compra Microsoft 365 no solamente adquiere licencias. M
 ---
 
 # 3. Compartición en SharePoint y OneDrive (Slide 9)
-
-## Mensaje principal
 
 Una de las primeras decisiones de seguridad consiste en definir cómo se compartirá información con usuarios externos. La configuración existe en varios niveles: Tenant -> SharePoint -> Sitio
 
@@ -72,7 +62,6 @@ Una de las primeras decisiones de seguridad consiste en definir cómo se compart
 
 # 6. Configuración de Teams (Slide 10)
 
-## Mensaje principal
 
 Teams debe ser gobernado. Existen configuraciones Organizativas, Políticas de reuniones, Políticas de mensajería
 
@@ -96,7 +85,6 @@ Teams debe ser gobernado. Existen configuraciones Organizativas, Políticas de r
 
 # 7. Auditoría Unificada (Slide 11)
 
-## Mensaje principal
 
 La auditoría permite responder ¿Quién eliminó un usuario?,  ¿Quién compartió un archivo?, ¿Quién modificó una configuración?, ¿Quién creó un Team?. Entra ID muestra quién inició sesión.Purview Audit muestra qué acciones realizaron los usuarios y administradores después. 
 
@@ -120,8 +108,6 @@ La auditoría permite responder ¿Quién eliminó un usuario?,  ¿Quién compart
 ---
 
 # 8. Tenant Readiness Checklist (Slide 12)
-
-## Mensaje principal
 
 Antes de poner el entorno en producción debemos validar que todo esté preparado.
 
@@ -187,16 +173,3 @@ Antes de poner el entorno en producción debemos validar que todo esté preparad
   
 ---
 
-# Resumen del bloque
-
-Cuando una empresa implementa Microsoft 365 normalmente sigue este orden:
-
-1. Comprender el tenant.
-2. Validar suscripciones y licencias.
-3. Configurar el perfil organizativo.
-4. Definir reglas de compartición.
-5. Configurar Teams.
-6. Activar auditoría.
-7. Revisar el checklist de preparación.
-
-Recién después comenzamos a crear usuarios y grupos.
