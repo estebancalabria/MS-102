@@ -1,12 +1,8 @@
 # Clase MS-102 - Learning Path 1
 
-## Bloque 1 - [TEÓRICO] Introducción (10 min) (Slides 1-2)
-    
-    * Agenda y objetivos
-    
 ---
 
-## Bloque 2 - [TEÓRICO] Configuración inicial del tenant (50-60 min) (Slides 3-14(
+## Bloque 2 - [TEÓRICO] Configuración inicial del tenant (50-60 min) (Slides 3-14)
     
     * Tenant, suscripciones y licencias
     * Organization Profile
@@ -32,8 +28,6 @@
 * Usuarios eliminados
 * Bulk Operations
 * Guest Users (B2B)
-* Mail Contacts
-
 
 ---
 
