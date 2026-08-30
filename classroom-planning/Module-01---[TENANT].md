@@ -1,7 +1,5 @@
 # Clase MS-102 - Learning Path 1
 
----
-
 ## Bloque 2 - [TEÓRICO] Configuración inicial del tenant (50-60 min) (Slides 3-14)
     
 * Tenant, suscripciones y licencias
