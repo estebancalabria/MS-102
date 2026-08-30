@@ -3,7 +3,7 @@
 
 # 1. Microsoft Defender for Office 365 (Slides 43-44)
 
-Microsoft Defender for Office 365 amplía la protección de Exchange Online para detectar y bloquear amenazas avanzadas como phishing, malware, enlaces maliciosos y archivos adjuntos peligrosos. 【1-ce53a6】
+Microsoft Defender for Office 365 amplía la protección de Exchange Online para detectar y bloquear amenazas avanzadas como phishing, malware, enlaces maliciosos y archivos adjuntos peligrosos.
 
 
 * [BROWSER] https://security.microsoft.com
@@ -18,7 +18,7 @@ Microsoft Defender for Office 365 amplía la protección de Exchange Online para
 # 2. Microsoft Defender for Identity (Slide 45)
 
 
-Microsoft Defender for Identity ayuda a detectar actividades sospechosas, uso indebido de credenciales y ataques dirigidos contra identidades en entornos híbridos. 【1-ce53a6】
+Microsoft Defender for Identity ayuda a detectar actividades sospechosas, uso indebido de credenciales y ataques dirigidos contra identidades en entornos híbridos.
 
 
 * [BROWSER] https://security.microsoft.com
@@ -30,7 +30,7 @@ Microsoft Defender for Identity ayuda a detectar actividades sospechosas, uso in
 
 # 3. Microsoft Defender for Endpoint (Slide 46)
 
-Microsoft Defender for Endpoint proporciona protección para dispositivos mediante detección de amenazas, análisis de vulnerabilidades, respuesta automatizada e investigación de incidentes. 【1-ce53a6】
+Microsoft Defender for Endpoint proporciona protección para dispositivos mediante detección de amenazas, análisis de vulnerabilidades, respuesta automatizada e investigación de incidentes. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Assets → Devices
@@ -42,7 +42,7 @@ Microsoft Defender for Endpoint proporciona protección para dispositivos median
 
 # 4. Microsoft 365 Threat Intelligence (Slide 47)
 
-Threat Intelligence proporciona visibilidad sobre amenazas activas y ayuda a comprender los riesgos que afectan al entorno mediante datos de inteligencia recopilados por Microsoft. 【1-ce53a6】
+Threat Intelligence proporciona visibilidad sobre amenazas activas y ayuda a comprender los riesgos que afectan al entorno mediante datos de inteligencia recopilados por Microsoft. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Email & collaboration → Explorer
@@ -53,7 +53,7 @@ Threat Intelligence proporciona visibilidad sobre amenazas activas y ayuda a com
 
 # 5. Microsoft Defender for Cloud Apps (Slide 48)
 
-Microsoft Defender for Cloud Apps proporciona visibilidad sobre aplicaciones en la nube, actividades de usuarios y riesgos asociados al uso de servicios cloud. 【1-ce53a6】
+Microsoft Defender for Cloud Apps proporciona visibilidad sobre aplicaciones en la nube, actividades de usuarios y riesgos asociados al uso de servicios cloud. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Cloud Apps
@@ -65,7 +65,7 @@ Microsoft Defender for Cloud Apps proporciona visibilidad sobre aplicaciones en 
 
 # 6. Informes de seguridad de Microsoft Defender XDR (Slide 49)
 
-Microsoft Defender XDR centraliza informes y paneles de seguridad que permiten visualizar el estado general de protección del entorno e identificar riesgos prioritarios. 【1-ce53a6】
+Microsoft Defender XDR centraliza informes y paneles de seguridad que permiten visualizar el estado general de protección del entorno e identificar riesgos prioritarios. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Reports
