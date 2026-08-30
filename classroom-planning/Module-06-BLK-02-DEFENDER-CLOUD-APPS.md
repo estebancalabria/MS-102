@@ -3,7 +3,7 @@
 
 # 1. Microsoft Defender for Cloud Apps (Slides 17-18)
 
-Microsoft Defender for Cloud Apps es un CASB (Cloud Access Security Broker) que proporciona visibilidad, control y protección sobre aplicaciones SaaS, servicios cloud y datos corporativos. 【1-37791b】
+Microsoft Defender for Cloud Apps es un CASB (Cloud Access Security Broker) que proporciona visibilidad, control y protección sobre aplicaciones SaaS, servicios cloud y datos corporativos. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Cloud Apps → Cloud Discovery
@@ -15,7 +15,7 @@ Microsoft Defender for Cloud Apps es un CASB (Cloud Access Security Broker) que 
 
 # 2. Implementación de Microsoft Defender for Cloud Apps (Slide 19)
 
-La implementación incluye la conexión de aplicaciones cloud, configuración de DLP, creación de políticas y habilitación de Cloud Discovery. 【1-37791b】
+La implementación incluye la conexión de aplicaciones cloud, configuración de DLP, creación de políticas y habilitación de Cloud Discovery.
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Cloud Apps → Connected Apps
@@ -26,7 +26,7 @@ La implementación incluye la conexión de aplicaciones cloud, configuración de
 
 # 3. Políticas de archivos y gobierno de datos (Slide 20)
 
-Las políticas permiten detectar información sensible, aplicar filtros contextuales y ejecutar acciones automáticas de gobierno y remediación. 【1-37791b】
+Las políticas permiten detectar información sensible, aplicar filtros contextuales y ejecutar acciones automáticas de gobierno y remediación. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Cloud Apps → Policies → Policy Management
@@ -38,8 +38,7 @@ Las políticas permiten detectar información sensible, aplicar filtros contextu
 
 # 4. Administración y respuesta a alertas (Slide 21)
 
-Las alertas ayudan a detectar comportamientos anómalos, actividad sospechosa y violaciones de políticas para responder rápidamente ante incidentes. 【1-37791b】
-
+Las alertas ayudan a detectar comportamientos anómalos, actividad sospechosa y violaciones de políticas para responder rápidamente ante incidentes.
 * [BROWSER] https://security.microsoft.com
     * [MENU] Cloud Apps → Alerts
         * 👁️ -> Alertas abiertas
@@ -50,7 +49,7 @@ Las alertas ayudan a detectar comportamientos anómalos, actividad sospechosa y 
 
 # 5. Cloud Discovery (Slides 22-23)
 
-Cloud Discovery analiza registros de tráfico para identificar Shadow IT, evaluar riesgos de aplicaciones y proporcionar visibilidad sobre el uso de servicios cloud. 【1-37791b】
+Cloud Discovery analiza registros de tráfico para identificar Shadow IT, evaluar riesgos de aplicaciones y proporcionar visibilidad sobre el uso de servicios cloud.
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Cloud Apps → Cloud Discovery → Dashboard
