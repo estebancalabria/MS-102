@@ -1,6 +1,4 @@
-# [TEÓRICO] Administración de Safe Attachments
-**Slides:** 24-33
-**Duración:** 45-60 minutos
+# [TEÓRICO] Administración de Safe Attachments (**Slides:** 24-33)
 
 ---
 
@@ -8,7 +6,7 @@
 
 ## Mensaje principal
 
-Safe Attachments protege a los usuarios frente a archivos adjuntos maliciosos mediante análisis en entornos aislados antes de permitir su acceso. 【1-b0fe38】
+Safe Attachments protege a los usuarios frente a archivos adjuntos maliciosos mediante análisis en entornos aislados antes de permitir su acceso.
 
 ## Demo
 
@@ -26,7 +24,7 @@ Safe Attachments protege a los usuarios frente a archivos adjuntos maliciosos me
 
 ## Mensaje principal
 
-Las políticas permiten definir cómo responder ante archivos sospechosos, utilizando acciones como Monitor, Block o Dynamic Delivery. 【1-b0fe38】
+Las políticas permiten definir cómo responder ante archivos sospechosos, utilizando acciones como Monitor, Block o Dynamic Delivery. 
 
 ## Demo
 
