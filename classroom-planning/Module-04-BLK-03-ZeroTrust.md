@@ -3,7 +3,7 @@
 
 # 1. Principios y componentes de Zero Trust (Slide 19)
 
-Zero Trust parte de que ninguna solicitud debe considerarse confiable de forma predeterminada, por lo que cada acceso debe verificarse explícitamente, concederse con el menor privilegio posible y evaluarse asumiendo que la organización puede haber sido vulnerada. 【1-df66c4】
+Zero Trust parte de que ninguna solicitud debe considerarse confiable de forma predeterminada, por lo que cada acceso debe verificarse explícitamente, concederse con el menor privilegio posible y evaluarse asumiendo que la organización puede haber sido vulnerada. 
 
 ## Demo
 
@@ -19,7 +19,7 @@ Zero Trust parte de que ninguna solicitud debe considerarse confiable de forma p
 
 # 2. Planificación de una estrategia Zero Trust (Slide 20)
 
-La implementación de Zero Trust requiere fortalecer las credenciales, reducir la superficie de ataque, automatizar la respuesta ante amenazas, aumentar la visibilidad mediante registros y alertas, y verificar explícitamente identidades, dispositivos y datos antes de permitir el acceso. 【1-df66c4】
+La implementación de Zero Trust requiere fortalecer las credenciales, reducir la superficie de ataque, automatizar la respuesta ante amenazas, aumentar la visibilidad mediante registros y alertas, y verificar explícitamente identidades, dispositivos y datos antes de permitir el acceso.
 
 ## Demo
 
@@ -34,7 +34,7 @@ La implementación de Zero Trust requiere fortalecer las credenciales, reducir l
 
 # 3. Acceso condicional en una estrategia Zero Trust (Slide 21)
 
-El acceso condicional permite verificar las señales asociadas a cada solicitud y aplicar controles según la identidad, el dispositivo, la ubicación, la aplicación y otras condiciones, evitando confiar únicamente en que el acceso procede de la red corporativa. 【1-df66c4】
+El acceso condicional permite verificar las señales asociadas a cada solicitud y aplicar controles según la identidad, el dispositivo, la ubicación, la aplicación y otras condiciones, evitando confiar únicamente en que el acceso procede de la red corporativa.
 
 ## Demo
 
