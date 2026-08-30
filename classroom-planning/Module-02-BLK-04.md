@@ -8,7 +8,7 @@
 
 ## Mensaje principal
 
-Microsoft 365 proporciona herramientas para supervisar el estado de los servicios del tenant y detectar incidentes, degradaciones o interrupciones antes de que impacten significativamente a los usuarios. 【1-a20c37】
+Microsoft 365 proporciona herramientas para supervisar el estado de los servicios del tenant y detectar incidentes, degradaciones o interrupciones antes de que impacten significativamente a los usuarios. 
 
 ## Demo
 
@@ -26,7 +26,7 @@ Microsoft 365 proporciona herramientas para supervisar el estado de los servicio
 
 ## Mensaje principal
 
-El Health Dashboard centraliza alertas críticas, estado de los servicios y recomendaciones para mejorar la salud general del entorno Microsoft 365. 【1-a20c37】
+El Health Dashboard centraliza alertas críticas, estado de los servicios y recomendaciones para mejorar la salud general del entorno Microsoft 365. 
 
 ## Demo
 
@@ -42,7 +42,7 @@ El Health Dashboard centraliza alertas críticas, estado de los servicios y reco
 
 ## Mensaje principal
 
-Adoption Score permite medir el nivel de adopción de Microsoft 365 dentro de la organización mediante indicadores relacionados con personas y tecnología. 【1-a20c37】
+Adoption Score permite medir el nivel de adopción de Microsoft 365 dentro de la organización mediante indicadores relacionados con personas y tecnología.
 
 ## Demo
 
@@ -59,7 +59,7 @@ Adoption Score permite medir el nivel de adopción de Microsoft 365 dentro de la
 
 ## Mensaje principal
 
-Los informes de actividad permiten analizar el uso real de Microsoft 365 e identificar tendencias de utilización por servicio y por período. 【1-a20c37】
+Los informes de actividad permiten analizar el uso real de Microsoft 365 e identificar tendencias de utilización por servicio y por período.
 
 ## Demo
 
@@ -78,7 +78,7 @@ Los informes de actividad permiten analizar el uso real de Microsoft 365 e ident
 
 ## Mensaje principal
 
-Microsoft proporciona herramientas para evaluar la conectividad entre los usuarios y los servicios de Microsoft 365 con el objetivo de detectar problemas de red y optimizar el rendimiento. 【1-a20c37】
+Microsoft proporciona herramientas para evaluar la conectividad entre los usuarios y los servicios de Microsoft 365 con el objetivo de detectar problemas de red y optimizar el rendimiento.
 
 ## Demo
 
@@ -95,7 +95,7 @@ Microsoft proporciona herramientas para evaluar la conectividad entre los usuari
 
 ## Mensaje principal
 
-Microsoft 365 Backup permite realizar copias de seguridad y restauraciones de Exchange Online, SharePoint Online y OneDrive para facilitar la recuperación ante incidentes o pérdida de datos. 【1-a20c37】
+Microsoft 365 Backup permite realizar copias de seguridad y restauraciones de Exchange Online, SharePoint Online y OneDrive para facilitar la recuperación ante incidentes o pérdida de datos.
 
 ## Demo
 
@@ -113,7 +113,7 @@ Microsoft 365 Backup permite realizar copias de seguridad y restauraciones de Ex
 
 ## Mensaje principal
 
-Cuando ocurre una degradación o interrupción del servicio es importante validar el impacto, revisar el alcance del incidente y definir acciones temporales hasta la recuperación del servicio. 【1-a20c37】
+Cuando ocurre una degradación o interrupción del servicio es importante validar el impacto, revisar el alcance del incidente y definir acciones temporales hasta la recuperación del servicio.
 
 ## Demo
 
@@ -133,7 +133,7 @@ Cuando ocurre una degradación o interrupción del servicio es importante valida
 
 ## Mensaje principal
 
-Los administradores pueden crear solicitudes de soporte directamente desde Microsoft 365 para problemas técnicos, administrativos, de facturación o relacionados con las suscripciones. 【1-a20c37】
+Los administradores pueden crear solicitudes de soporte directamente desde Microsoft 365 para problemas técnicos, administrativos, de facturación o relacionados con las suscripciones.
 
 ## Demo
 
@@ -153,7 +153,7 @@ Los administradores pueden crear solicitudes de soporte directamente desde Micro
 
 ## Mensaje principal
 
-Microsoft clasifica los incidentes según el impacto que tienen sobre la organización para priorizar la atención y la resolución del problema. 【1-a20c37】
+Microsoft clasifica los incidentes según el impacto que tienen sobre la organización para priorizar la atención y la resolución del problema.
 
 ## Demo
 
@@ -166,10 +166,4 @@ Microsoft clasifica los incidentes según el impacto que tienen sobre la organiz
             * 👁️ -> Clasificación del caso
             * 👁️ -> Impacto del incidente
 
----
 
-# 10. Knowledge Check y cierre (Slides 28-29)
-
-## Mensaje principal
-
-El módulo resume las herramientas que permiten supervisar la salud operativa del tenant, analizar la adopción de Microsoft 365, evaluar la conectividad y gestionar incidentes y solicitudes de soporte. 【1-a20c37】
