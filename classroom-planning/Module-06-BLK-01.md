@@ -6,7 +6,7 @@
 Microsoft Intelligent Security Graph recopila miles de millones de señales de seguridad para proporcionar inteligencia de amenazas a Microsoft 365, Azure y Windows.
 
 * [BROWSER] https://security.microsoft.com
-    * [MENU] Incidents & alerts → Incidents
+    * [MENU] Investigation & response → Incidents & alerts → Incidents
         * 👁️ -> Incidentes recientes
         * 👁️ -> Correlación automática de señales
 
@@ -17,7 +17,7 @@ Microsoft Intelligent Security Graph recopila miles de millones de señales de s
 Las alertas representan eventos sospechosos o maliciosos, mientras que los incidentes agrupan alertas relacionadas para proporcionar el contexto completo de un ataque. 
 
 * [BROWSER] https://security.microsoft.com
-    * [MENU] Incidents & alerts → Alerts
+    * [MENU] Investigation & response → Incidents & alerts → Alerts
         * 👁️ -> Severity
         * 👁️ -> Status
         * 👁️ -> Classification
@@ -30,7 +30,7 @@ Las alertas representan eventos sospechosos o maliciosos, mientras que los incid
 AIR permite investigar automáticamente amenazas conocidas y proponer o ejecutar acciones de remediación para reducir el tiempo de respuesta ante incidentes. 
 
 * [BROWSER] https://security.microsoft.com
-    * [MENU] Incidents & alerts → Alerts
+    * [MENU] Investigation & response → Incidents & alerts → Alerts
         * 👁️ -> Investigation status
         * 👁️ -> Automated response actions
 
@@ -41,7 +41,7 @@ AIR permite investigar automáticamente amenazas conocidas y proponer o ejecutar
 Advanced Hunting permite buscar amenazas mediante consultas KQL sobre datos de dispositivos, correo electrónico, identidades y aplicaciones en la nube.
 
 * [BROWSER] https://security.microsoft.com
-    * [MENU] Hunting → Advanced Hunting
+    * [MENU] Investigation & response → Hunting → Advanced hunting
         * 👁️ -> Editor KQL
         * 👁️ -> Tablas disponibles
         * 👁️ -> Ejemplo de consulta
@@ -53,7 +53,7 @@ Advanced Hunting permite buscar amenazas mediante consultas KQL sobre datos de d
 Threat Analytics proporciona inteligencia de amenazas, análisis de exposición y reportes que ayudan a priorizar riesgos y acciones de mitigación. 
 
 * [BROWSER] https://security.microsoft.com
-    * [MENU] Reports → Threat analytics
+    * [MENU] Threat intelligence → Threat analytics
         * 👁️ -> Latest threats
         * 👁️ -> High-impact threats
         * 👁️ -> Highest exposure
