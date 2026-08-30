@@ -22,23 +22,7 @@ Microsoft 365 proporciona herramientas para supervisar el estado de los servicio
 
 ---
 
-# 2. Microsoft 365 Health Dashboard (Slide 21)
-
-## Mensaje principal
-
-El Health Dashboard centraliza alertas críticas, estado de los servicios y recomendaciones para mejorar la salud general del entorno Microsoft 365. 
-
-## Demo
-
-* [BROWSER] https://admin.cloud.microsoft/
-    * [HOME]
-        * 👁️ -> Health Dashboard
-        * 👁️ -> Critical Alerts
-        * 👁️ -> Recommended Actions
-
----
-
-# 3. Adoption Score (Slide 22)
+# 2. Adoption Score (Slide 22)
 
 ## Mensaje principal
 
