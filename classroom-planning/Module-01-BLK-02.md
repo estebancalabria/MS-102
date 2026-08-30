@@ -55,7 +55,6 @@ Cuando una organización compra Microsoft 365 no solamente adquiere licencias. M
 ## Mensaje principal
 
 Una de las primeras decisiones de seguridad consiste en definir cómo se compartirá información con usuarios externos. La configuración existe en varios niveles: Tenant -> SharePoint -> Sitio
-```
 
 ## Demo
 
