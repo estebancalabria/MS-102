@@ -1,4 +1,4 @@
-# [TEÓRICO] Data Loss Prevention (Slides: 32-42)
+# Explore Data Loss Prevention (Slides: 32-42)
 
 ---
 
