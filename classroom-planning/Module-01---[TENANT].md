@@ -4,13 +4,13 @@
 
 ## Bloque 2 - [TEÓRICO] Configuración inicial del tenant (50-60 min) (Slides 3-14)
     
-    * Tenant, suscripciones y licencias
-    * Organization Profile
-    * Billing y servicios adicionales
-    * SharePoint / OneDrive Sharing
-    * Teams Settings
-    * Audit Logging
-    * Tenant Readiness Checklist
+* Tenant, suscripciones y licencias
+* Organization Profile
+* Billing y servicios adicionales
+* SharePoint / OneDrive Sharing
+* Teams Settings
+* Audit Logging
+* Tenant Readiness Checklist
     
 ---
 
