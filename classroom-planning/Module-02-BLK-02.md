@@ -1,8 +1,4 @@
-# [TEÓRICO] Permisos, roles y grupos de roles
-**Slides:** 3-16  
-**Duración:** 70-90 minutos
-
----
+# [TEÓRICO] Permisos, roles y grupos de roles (**Slides:** 3-16)  
 
 # 1. Modelo de permisos de Microsoft 365 (Slides 4-6)
 
