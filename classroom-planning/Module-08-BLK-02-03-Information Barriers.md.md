@@ -1,109 +1,66 @@
-# [TEÓRICO] Implementar Microsoft Purview Information Barriers
-**Slides:** 22-31
-**Duración:** 60-75 minutos
+# [TEÓRICO] Implementar Microsoft Purview Information Barriers (**Slides:** 22-31)  
 
 ---
 
-# 1. Introducción a Information Barriers (Slides 23-25)
+# 1. Microsoft Purview Information Barriers (Slides 23-25)
 
-## Mensaje principal
+Information Barriers permite restringir la comunicación y colaboración entre grupos específicos de usuarios en Microsoft Teams, SharePoint Online y OneDrive. 【1-07add4】
 
-Information Barriers permite restringir las comunicaciones y colaboraciones entre grupos específicos de usuarios en Microsoft Teams, SharePoint Online y OneDrive. 【1-917178】
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Solutions → Information Barriers
-
-        * 👁️ -> Página principal de Information Barriers
-
-        * 👁️ -> Estado general de la solución
-
-        * 👁️ -> Opciones de administración disponibles
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Information Barriers → Overview
+        * 👁️ -> Recursos y documentación de Information Barriers.
+        * 👁️ -> Restricciones bidireccionales entre grupos de usuarios.
+        * 👁️ -> Protección para Teams, SharePoint y OneDrive.
 
 ---
 
-# 2. Configuración de segmentos (Slide 26)
+# 2. Configuración de Information Barriers (Slide 26)
 
-## Mensaje principal
+Las organizaciones crean segmentos y políticas para definir qué grupos pueden comunicarse y cuáles deben permanecer aislados. 【1-07add4】
 
-Los segmentos representan grupos de usuarios que serán utilizados posteriormente para construir las políticas de aislamiento. 【1-917178】
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Information Barriers → Segments
+        * 👁️ -> Los segmentos agrupan usuarios utilizando atributos de Microsoft Entra ID.
 
-## Demo
+    * [MENU] Solutions → Information Barriers → Policies
+        * 👁️ -> Las políticas conectan segmentos y determinan qué grupos pueden o no colaborar entre sí.
 
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Information Barriers → Segments
-
-        * 👁️ -> Segmentos configurados
-
-        * 👁️ -> Atributos utilizados para segmentar usuarios
-
-        * 👁️ -> Miembros de cada segmento
-
-        * 👁️ -> Estado del segmento
+    * [MENU] Solutions → Information Barriers → Policy applications
+        * 👁️ -> Muestra el estado de procesamiento y aplicación de las políticas configuradas.
 
 ---
 
-# 3. Configuración de políticas (Slide 26)
+# 3. Information Barriers en Microsoft Teams (Slide 27)
 
-## Mensaje principal
+Information Barriers puede impedir búsquedas de usuarios, chats, llamadas, reuniones, canales y acceso a contenido entre usuarios pertenecientes a segmentos restringidos. 【1-07add4】
 
-Las políticas definen qué segmentos pueden o no comunicarse y colaborar entre sí. 【1-917178】
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Information Barriers → Policies
-
-        * 👁️ -> Políticas existentes
-
-        * 👁️ -> Segmentos incluidos en una política
-
-        * 👁️ -> Tipo de restricción configurada
-
-        * 👁️ -> Estado de procesamiento
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Information Barriers → Policies
+        * 👁️ -> Puede impedir búsquedas de usuarios entre segmentos restringidos.
+        * 👁️ -> Puede bloquear chats, llamadas y reuniones entre grupos definidos.
+        * 👁️ -> Puede restringir la incorporación de usuarios a equipos y canales.
 
 ---
 
-# 4. Impacto en Microsoft Teams (Slide 27)
+# 4. Information Barriers en OneDrive (Slide 28)
 
-## Mensaje principal
+Information Barriers puede restringir el acceso a archivos y la colaboración entre usuarios mediante reglas basadas en segmentos. 【1-07add4】
 
-Information Barriers puede impedir búsquedas, chats, llamadas, reuniones, canales y otras formas de colaboración entre usuarios pertenecientes a segmentos restringidos. 【1-917178】
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Information Barriers → Policies
-
-        * 👁️ -> Segmentos afectados por la política
-
-        * 👁️ -> Restricciones que se aplicarán en Teams
-
-        * 👁️ -> Estado de aplicación de la política
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Information Barriers → Policies
+        * 👁️ -> Puede impedir el acceso a OneDrive entre segmentos restringidos.
+        * 👁️ -> Puede impedir compartir contenido almacenado en OneDrive.
+        * 👁️ -> Admite modos Open, Owner Moderated, Explicit e Inferred.
 
 ---
 
-# 5. Impacto en OneDrive y SharePoint (Slides 28-29)
+# 5. Information Barriers en SharePoint Online (Slide 29)
 
-## Mensaje principal
+Information Barriers puede restringir el acceso a sitios y contenido compartido entre grupos definidos por la organización. 【1-07add4】
 
-Information Barriers también puede restringir el acceso a sitios, contenido y recursos compartidos en OneDrive y SharePoint Online. 【1-917178】
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Information Barriers → Policies
-
-        * 👁️ -> Segmentos afectados
-
-        * 👁️ -> Restricciones de acceso y colaboración
-
-        * 👁️ -> Estado de implementación de la política
-
-
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Information Barriers → Policies
+        * 👁️ -> Puede impedir agregar usuarios a sitios de SharePoint.
+        * 👁️ -> Puede impedir el acceso a sitios y contenido.
+        * 👁️ -> Puede impedir compartir sitios y documentos entre segmentos restringidos.
+        * 👁️ -> Admite modos Open, Owner Moderated, Explicit e Inferred.
