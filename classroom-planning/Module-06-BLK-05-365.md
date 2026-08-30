@@ -4,7 +4,7 @@
 
 # 1. Protection Stack de Microsoft Defender for Office 365 (Slide 38)
 
-Microsoft Defender for Office 365 protege el correo mediante cuatro capas: Edge Protection, Sender Intelligence, Content Filtering y Post-delivery Protection. 【1-bfe9ba】
+Microsoft Defender for Office 365 protege el correo mediante cuatro capas: Edge Protection, Sender Intelligence, Content Filtering y Post-delivery Protection. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Email & collaboration → Policies & rules → Threat policies
@@ -19,9 +19,7 @@ Microsoft Defender for Office 365 protege el correo mediante cuatro capas: Edge 
 
 ## Mensaje principal
 
-Microsoft Defender for Office 365 incluye directivas predefinidas y personalizadas para proteger correo electrónico, colaboración y usuarios frente a amenazas avanzadas. 【1-bfe9ba】
-
-## Demo
+Microsoft Defender for Office 365 incluye directivas predefinidas y personalizadas para proteger correo electrónico, colaboración y usuarios frente a amenazas avanzadas 
 
 * [BROWSER] https://security.microsoft.com
 
@@ -34,9 +32,7 @@ Microsoft Defender for Office 365 incluye directivas predefinidas y personalizad
 
 # 3. Threat Explorer (Slide 40)
 
-Threat Explorer permite investigar campañas de malware, phishing y otras amenazas mediante búsquedas y análisis detallados de mensajes y eventos. 【1-bfe9ba】
-
-## Demo
+Threat Explorer permite investigar campañas de malware, phishing y otras amenazas mediante búsquedas y análisis detallados de mensajes y eventos. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Email & collaboration → Explorer
@@ -49,8 +45,7 @@ Threat Explorer permite investigar campañas de malware, phishing y otras amenaz
 
 # 4. Threat Trackers (Slide 41)
 
-Threat Trackers proporciona visibilidad sobre amenazas activas, tendencias de ataque y consultas de seguridad relevantes para la organización. 【1-bfe9ba】
-
+Threat Trackers proporciona visibilidad sobre amenazas activas, tendencias de ataque y consultas de seguridad relevantes para la organización. 
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Email & collaboration → Threat Tracker
@@ -62,7 +57,7 @@ Threat Trackers proporciona visibilidad sobre amenazas activas, tendencias de at
 
 # 5. Attack Simulation Training (Slide 42)
 
-Attack Simulation Training permite ejecutar campañas controladas de phishing y simulación de ataques para evaluar y mejorar la postura de seguridad de los usuarios. 【1-bfe9ba】
+Attack Simulation Training permite ejecutar campañas controladas de phishing y simulación de ataques para evaluar y mejorar la postura de seguridad de los usuarios.
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Email & collaboration → Attack Simulation Training
