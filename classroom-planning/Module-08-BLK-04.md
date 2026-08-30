@@ -1,6 +1,4 @@
-# [TEÓRICO] Explorar Microsoft Purview Data Loss Prevention
-**Slides:** 32-42
-**Duración:** 60-75 minutos
+# [TEÓRICO]  Data Loss Prevention (**Slides:** 32-42)
 
 ---
 
@@ -116,12 +114,3 @@ Microsoft Purview proporciona métricas, informes, alertas y registros de audito
 
         * 👁️ -> Filtros de análisis
 
----
-
-# Resumen del bloque
-
-1. Comprender el propósito de Data Loss Prevention.
-2. Revisar las directivas DLP y sus ubicaciones.
-3. Explorar Endpoint Data Loss Prevention.
-4. Analizar Adaptive Protection.
-5. Revisar alertas, métricas y Activity Explorer.
