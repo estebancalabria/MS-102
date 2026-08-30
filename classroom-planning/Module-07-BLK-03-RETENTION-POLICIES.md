@@ -1,4 +1,4 @@
-# [TEÓRICO] Retención en Microsoft 365
+# [TEÓRICO] Retención Policies
 **Slides:** 20-30
 **Duración:** 60-75 minutos
 
