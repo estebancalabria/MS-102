@@ -1,116 +1,68 @@
-# [TEÓRICO]  Data Loss Prevention (**Slides:** 32-42)
+# [TEÓRICO] Data Loss Prevention (Slides: 32-42)
 
 ---
 
-# 1. Introducción a Data Loss Prevention (Slide 33-34)
+# 1. Introducción a Data Loss Prevention (Slides 33-34)
 
-## Mensaje principal
+Microsoft Purview Data Loss Prevention (DLP) ayuda a detectar, supervisar y proteger información confidencial en Exchange Online, SharePoint Online, OneDrive, Teams y dispositivos.
 
-Microsoft Purview Data Loss Prevention (DLP) ayuda a proteger información confidencial mediante la detección, supervisión y bloqueo de actividades que puedan provocar filtraciones de datos. 【1-0ad8b7】
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Data Loss Prevention
-
-        * 👁️ -> Página principal de DLP
-
-        * 👁️ -> Ubicaciones protegidas
-
-        * 👁️ -> Soluciones relacionadas con DLP
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Data Loss Prevention → Overview
+        * 👁️ -> DLP protege datos en Exchange, SharePoint, OneDrive y Teams.
+        * 👁️ -> Permite detectar información confidencial mediante análisis de contenido.
+        * 👁️ -> Puede supervisar y bloquear actividades relacionadas con datos sensibles.
 
 ---
 
 # 2. Directivas DLP (Slide 35)
 
-## Mensaje principal
+Las directivas DLP permiten identificar información confidencial y ejecutar acciones como bloquear, alertar o notificar cuando se detectan riesgos de exposición.
 
-Las directivas DLP permiten detectar información confidencial y ejecutar acciones como bloqueos, notificaciones y alertas sobre Exchange, SharePoint, OneDrive y Teams. 【1-0ad8b7】
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Data Loss Prevention → Policies
-
-        * 👁️ -> Directivas existentes
-
-        * 👁️ -> Templates disponibles
-
-        * 👁️ -> Ubicaciones protegidas por una política
-
-        * 👁️ -> Modo Simulation
-
-        * 👁️ -> Reglas configuradas
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Data Loss Prevention → Policies
+        * 👁️ -> Las políticas definen qué información debe protegerse.
+        * 👁️ -> Las políticas pueden aplicarse a Exchange, SharePoint, OneDrive y Teams.
+        * 👁️ -> Las políticas pueden ejecutarse en modo Simulation antes de aplicarse.
+        * 👁️ -> Las políticas utilizan condiciones y acciones para proteger los datos.
 
 ---
 
 # 3. Endpoint Data Loss Prevention (Slide 36)
 
-## Mensaje principal
+Endpoint DLP amplía la protección a dispositivos Windows y macOS para controlar acciones realizadas sobre información confidencial.
 
-Endpoint DLP amplía la protección a dispositivos Windows y macOS para controlar acciones como copiar a USB, imprimir documentos o transferir datos a servicios externos. 【1-0ad8b7】
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Data Loss Prevention → Endpoint DLP settings
-
-        * 👁️ -> Configuración de Endpoint DLP
-
-        * 👁️ -> Dispositivos administrados
-
-        * 👁️ -> Actividades supervisadas
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Data Loss Prevention → Endpoint DLP settings
+        * 👁️ -> Permite supervisar actividades realizadas sobre datos sensibles en dispositivos.
+        * 👁️ -> Puede controlar copias a USB, impresiones y transferencias a servicios externos.
+        * 👁️ -> Requiere dispositivos incorporados a Microsoft Defender for Endpoint.
 
 ---
 
 # 4. Adaptive Protection (Slides 37-39)
 
-## Mensaje principal
+Adaptive Protection utiliza señales de Insider Risk Management para ajustar automáticamente el nivel de protección aplicado a cada usuario.
 
-Adaptive Protection utiliza señales de Insider Risk Management para aplicar automáticamente distintos niveles de protección DLP según el riesgo asociado a cada usuario. 【1-0ad8b7】
-
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
+* [BROWSER] https://purview.microsoft.com
     * [MENU] Solutions → Adaptive Protection
-
-        * 👁️ -> Configuración de Adaptive Protection
-
-        * 👁️ -> Niveles de riesgo
-
-        * 👁️ -> Integración con Insider Risk Management
-
-        * 👁️ -> Directivas adaptativas disponibles
+        * 👁️ -> Integra Insider Risk Management con Data Loss Prevention.
+        * 👁️ -> Asigna niveles de riesgo a los usuarios.
+        * 👁️ -> Aplica automáticamente diferentes controles según el riesgo detectado.
+        * 👁️ -> Ajusta la protección cuando cambia el nivel de riesgo de un usuario.
 
 ---
 
 # 5. Resultados y alertas DLP (Slide 40)
 
-## Mensaje principal
+Microsoft Purview proporciona alertas, métricas y actividades para evaluar la efectividad de las políticas DLP y analizar incidentes relacionados con datos confidenciales.
 
-Microsoft Purview proporciona métricas, informes, alertas y registros de auditoría para analizar la efectividad de las políticas DLP y las actividades de los usuarios. 【1-0ad8b7】
+* [BROWSER] https://purview.microsoft.com
+    * [MENU] Solutions → Data Loss Prevention → Alerts
+        * 👁️ -> Permite revisar alertas generadas por las políticas DLP.
+        * 👁️ -> Facilita la investigación y seguimiento de incidentes.
+        * 👁️ -> Muestra detalles sobre eventos relacionados con datos sensibles.
 
-## Demo
-
-* [BROWSER] https://compliance.microsoft.com
-
-    * [MENU] Data Loss Prevention → Alerts
-
-        * 👁️ -> Alertas activas
-
-        * 👁️ -> Estado de resolución
-
-        * 👁️ -> Detalles de una alerta
-
-    * [MENU] Data Loss Prevention → Activity Explorer
-
-        * 👁️ -> Eventos registrados
-
-        * 👁️ -> Actividades de usuarios
-
-        * 👁️ -> Filtros de análisis
-
+    * [MENU] Solutions → Data Loss Prevention → Activity Explorer
+        * 👁️ -> Permite analizar actividades relacionadas con información confidencial.
+        * 👁️ -> Muestra eventos asociados a etiquetas y tipos de información sensible.
+        * 👁️ -> Permite filtrar y analizar actividades realizadas por los usuarios.
