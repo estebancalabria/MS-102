@@ -1,6 +1,4 @@
-# [TEÓRICO] Salud y servicios del tenant
-**Slides:** 19-29  
-**Duración:** 60-75 minutos
+# [TEÓRICO] Salud y servicios del tenant (**Slides:** 19-29)  
 
 ---
 
