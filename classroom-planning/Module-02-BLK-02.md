@@ -9,16 +9,9 @@
 ## Mensaje principal
 
 Microsoft 365 utiliza un modelo basado en:
-
-* Roles
-* Scopes
-* Assignments
-
-Los roles definen qué puede hacer un administrador.
-
-Los scopes definen sobre qué objetos puede actuar.
-
-Los assignments conectan usuarios con roles.
+* Roles : Los roles definen qué puede hacer un administrador.
+* Scopes : Los scopes definen sobre qué objetos puede actuar.
+* Assignments : Los assignments conectan usuarios con roles.
 
 ## Demo
 
@@ -39,9 +32,7 @@ Los assignments conectan usuarios con roles.
 
 ## Mensaje principal
 
-No todos los administradores necesitan ser Global Administrator.
-
-Microsoft recomienda asignar únicamente los permisos necesarios para cada tarea.
+No todos los administradores necesitan ser Global Administrator. Microsoft recomienda asignar únicamente los permisos necesarios para cada tarea.
 
 ## Demo
 
@@ -55,11 +46,6 @@ Microsoft recomienda asignar únicamente los permisos necesarios para cada tarea
             * 👁️ -> License Administrator
             * 👁️ -> Groups Administrator
             * 👁️ -> Helpdesk Administrator
-
-## Explicación
-
-* Cada rol administra una parte específica del entorno.
-* El rol Global Administrator tiene acceso completo.
 
 ---
 
@@ -92,9 +78,7 @@ Microsoft recomienda:
 
 ## Mensaje principal
 
-Una organización puede delegar parte de la administración a un Partner Microsoft.
-
-Los partners pueden recibir permisos administrativos limitados o completos.
+Una organización puede delegar parte de la administración a un Partner Microsoft. Los partners pueden recibir permisos administrativos limitados o completos.
 
 ## Demo
 
@@ -109,9 +93,7 @@ Los partners pueden recibir permisos administrativos limitados o completos.
 
 ## Mensaje principal
 
-Los Role Groups permiten asignar permisos a grupos en lugar de hacerlo usuario por usuario.
-
-Esto simplifica la administración.
+Los Role Groups permiten asignar permisos a grupos en lugar de hacerlo usuario por usuario. Esto simplifica la administración.
 
 ## Demo
 
@@ -129,16 +111,7 @@ Esto simplifica la administración.
 
 ## Mensaje principal
 
-Las Administrative Units permiten delegar administración sobre una parte específica de la organización.
-
-Por ejemplo:
-
-* Sucursal Norte
-* Sucursal Sur
-* Universidad
-* Departamento
-
-Cada unidad puede tener sus propios administradores.
+Las Administrative Units permiten delegar administración sobre una parte específica de la organización. Cada unidad puede tener sus propios administradores.
 
 ## Demo
 
@@ -153,9 +126,7 @@ Cada unidad puede tener sus propios administradores.
 
 ## Mensaje principal
 
-Copilot y los usuarios pueden acceder a toda la información para la que tengan permisos.
-
-Por eso es importante revisar el modelo de permisos y compartición.
+Copilot y los usuarios pueden acceder a toda la información para la que tengan permisos. Por eso es importante revisar el modelo de permisos y compartición.
 
 ## Demo
 
@@ -210,15 +181,3 @@ Esto reduce la superficie de ataque.
 * Un usuario puede ser elegible para un rol sin tenerlo activo permanentemente.
 * El acceso se activa durante un período determinado y luego se revoca automáticamente.
 
----
-
-# Resumen del bloque
-
-1. Comprender el modelo de permisos.
-2. Revisar roles administrativos.
-3. Aplicar principio de mínimo privilegio.
-4. Delegar administración cuando corresponda.
-5. Utilizar Role Groups.
-6. Utilizar Administrative Units.
-7. Revisar permisos de SharePoint.
-8. Utilizar PIM para privilegios temporales.
