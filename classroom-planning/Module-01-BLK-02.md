@@ -4,8 +4,6 @@
 
 Cuando una organización compra Microsoft 365 no solamente adquiere licencias. Microsoft crea un tenant de Microsoft Entra ID donde se almacenan Usuarios, Grupos, Aplicaciones, Configuraciones, Políticas. El tenant es el límite administrativo de la organización dentro de Microsoft 365. 
 
-## Demo
-
 * [BROWSER] https://admin.cloud.microsoft/
      * [TOP-NAVBAR] [LINK] Contoso
          * 👁️ -> Nombre del tenant
@@ -30,9 +28,6 @@ Cuando una organización compra Microsoft 365 no solamente adquiere licencias. M
 
 * Antes de crear usuarios debemos definir la identidad de la organización. El perfil organizativo incluye varias cosas como nombre, direccion, etc. La región elegida durante la creación del tenant es muy importante porque afecta Servicios disponibles, Facturación, Regulaciones, Ubicación de datos
 
-
-## Demo
-
 * [BROWSER] https://admin.cloud.microsoft/
      * [MENU] Settings → Org Settings
         * [TAB] Organization Profile
@@ -45,8 +40,6 @@ Cuando una organización compra Microsoft 365 no solamente adquiere licencias. M
 # 3. Compartición en SharePoint y OneDrive (Slide 9)
 
 Una de las primeras decisiones de seguridad consiste en definir cómo se compartirá información con usuarios externos. La configuración existe en varios niveles: Tenant -> SharePoint -> Sitio
-
-## Demo
 
 * [BROWSER] https://admin.cloud.microsoft/
      * [MENU] Show All
@@ -64,8 +57,6 @@ Una de las primeras decisiones de seguridad consiste en definir cómo se compart
 
 
 Teams debe ser gobernado. Existen configuraciones Organizativas, Políticas de reuniones, Políticas de mensajería
-
-## Demo
 
 * [BROWSER] https://admin.cloud.microsoft/
      * [MENU] Show All
@@ -85,10 +76,7 @@ Teams debe ser gobernado. Existen configuraciones Organizativas, Políticas de r
 
 # 7. Auditoría Unificada (Slide 11)
 
-
 La auditoría permite responder ¿Quién eliminó un usuario?,  ¿Quién compartió un archivo?, ¿Quién modificó una configuración?, ¿Quién creó un Team?. Entra ID muestra quién inició sesión.Purview Audit muestra qué acciones realizaron los usuarios y administradores después. 
-
-## Demo
 
 * [BROWSER] https://admin.cloud.microsoft/
      * [MENU] Show All
