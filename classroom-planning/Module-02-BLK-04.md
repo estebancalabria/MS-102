@@ -6,8 +6,6 @@
 
 # 1. Service Health (Slides 20-21)
 
-## Mensaje principal
-
 Microsoft 365 proporciona herramientas para supervisar el estado de los servicios del tenant y detectar incidentes, degradaciones o interrupciones antes de que impacten significativamente a los usuarios. 
 
 ## Demo
@@ -23,8 +21,6 @@ Microsoft 365 proporciona herramientas para supervisar el estado de los servicio
 ---
 
 # 2. Adoption Score (Slide 22)
-
-## Mensaje principal
 
 Adoption Score mide qué tan bien los usuarios están aprovechando Microsoft 365 para comunicarse, colaborar, trabajar en equipo, usar dispositivos móviles y adoptar capacidades de IA.
 
@@ -44,8 +40,6 @@ Adoption Score mide qué tan bien los usuarios están aprovechando Microsoft 365
 
 # 4. Usage Analytics y Activity Reports (Slide 23)
 
-## Mensaje principal
-
 Los informes de actividad permiten analizar el uso real de Microsoft 365 e identificar tendencias de utilización por servicio y por período.
 
 ## Demo
@@ -63,8 +57,6 @@ Los informes de actividad permiten analizar el uso real de Microsoft 365 e ident
 
 # 5. Network Connectivity Assessments (Slide 24)
 
-## Mensaje principal
-
 Microsoft proporciona herramientas para evaluar la conectividad entre los usuarios y los servicios de Microsoft 365 con el objetivo de detectar problemas de red y optimizar el rendimiento.
 
 ## Demo
@@ -75,8 +67,6 @@ Microsoft proporciona herramientas para evaluar la conectividad entre los usuari
 ---
 
 # 6. Microsoft 365 Backup (Slide 25)
-
-## Mensaje principal
 
 Microsoft 365 Backup permite realizar copias de seguridad y restauraciones de Exchange Online, SharePoint Online y OneDrive para facilitar la recuperación ante incidentes o pérdida de datos.
 
