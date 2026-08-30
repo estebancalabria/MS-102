@@ -4,7 +4,7 @@
 
 # 1. Microsoft Purview Information Barriers (Slides 23-25)
 
-Information Barriers permite restringir la comunicación y colaboración entre grupos específicos de usuarios en Microsoft Teams, SharePoint Online y OneDrive. 【1-07add4】
+Information Barriers permite restringir la comunicación y colaboración entre grupos específicos de usuarios en Microsoft Teams, SharePoint Online y OneDrive. 
 
 * [BROWSER] https://purview.microsoft.com
     * [MENU] Solutions → Information Barriers → Overview
@@ -16,7 +16,7 @@ Information Barriers permite restringir la comunicación y colaboración entre g
 
 # 2. Configuración de Information Barriers (Slide 26)
 
-Las organizaciones crean segmentos y políticas para definir qué grupos pueden comunicarse y cuáles deben permanecer aislados. 【1-07add4】
+Las organizaciones crean segmentos y políticas para definir qué grupos pueden comunicarse y cuáles deben permanecer aislados.
 
 * [BROWSER] https://purview.microsoft.com
     * [MENU] Solutions → Information Barriers → Segments
@@ -32,7 +32,7 @@ Las organizaciones crean segmentos y políticas para definir qué grupos pueden 
 
 # 3. Information Barriers en Microsoft Teams (Slide 27)
 
-Information Barriers puede impedir búsquedas de usuarios, chats, llamadas, reuniones, canales y acceso a contenido entre usuarios pertenecientes a segmentos restringidos. 【1-07add4】
+Information Barriers puede impedir búsquedas de usuarios, chats, llamadas, reuniones, canales y acceso a contenido entre usuarios pertenecientes a segmentos restringidos. 
 
 * [BROWSER] https://purview.microsoft.com
     * [MENU] Solutions → Information Barriers → Policies
@@ -44,7 +44,7 @@ Information Barriers puede impedir búsquedas de usuarios, chats, llamadas, reun
 
 # 4. Information Barriers en OneDrive (Slide 28)
 
-Information Barriers puede restringir el acceso a archivos y la colaboración entre usuarios mediante reglas basadas en segmentos. 【1-07add4】
+Information Barriers puede restringir el acceso a archivos y la colaboración entre usuarios mediante reglas basadas en segmentos.
 
 * [BROWSER] https://purview.microsoft.com
     * [MENU] Solutions → Information Barriers → Policies
@@ -56,7 +56,7 @@ Information Barriers puede restringir el acceso a archivos y la colaboración en
 
 # 5. Information Barriers en SharePoint Online (Slide 29)
 
-Information Barriers puede restringir el acceso a sitios y contenido compartido entre grupos definidos por la organización. 【1-07add4】
+Information Barriers puede restringir el acceso a sitios y contenido compartido entre grupos definidos por la organización. 
 
 * [BROWSER] https://purview.microsoft.com
     * [MENU] Solutions → Information Barriers → Policies
