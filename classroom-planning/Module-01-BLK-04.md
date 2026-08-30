@@ -10,24 +10,9 @@
 
 Microsoft soporta tres modelos de identidad:
 
-- Cloud Identity
-- Synchronized Identity
-- Federated Identity
-
-### Cloud Identity
-
-- El usuario existe únicamente en Microsoft Entra ID.
-- No existe Active Directory local.
-
-### Synchronized Identity
-
-- El usuario existe en Active Directory local.
-- Se sincroniza mediante Entra Connect.
-
-### Federated Identity
-
-- El usuario existe en Active Directory local.
-- La autenticación es realizada por un proveedor federado.
+- Cloud Identity : El usuario existe únicamente en Microsoft Entra ID, No existe Active Directory local.
+- Synchronized Identity: El usuario existe en Active Directory local. Se sincroniza mediante Entra Connect.
+- Federated Identity: El usuario existe en Active Directory local. La autenticación es realizada por un proveedor federado.
 
 ## Demo
 
@@ -46,7 +31,6 @@ Microsoft soporta tres modelos de identidad:
 ## Mensaje principal
 
 Microsoft permite crear usuarios mediante:
-
 - Microsoft 365 Admin Center
 - Importación masiva
 - PowerShell
@@ -73,7 +57,6 @@ Microsoft permite crear usuarios mediante:
 ## Mensaje principal
 
 Una vez creado el usuario pueden administrarse:
-
 - Estado de inicio de sesión
 - Ubicación
 - Roles
@@ -206,33 +189,4 @@ Un Mail Contact representa una persona externa dentro de la libreta global de di
                * 👁️ -> Nombre
                * 👁️ -> Email externo
 
----
 
-# 9. Knowledge Check (Slide 28)
-
-## Kahoot
-
-- ¿Qué es una Cloud Identity?
-- ¿Qué es Entra Connect?
-- ¿Dónde se crean usuarios?
-- ¿Dónde se bloquea un usuario?
-- ¿Qué muestra la pestaña Licenses and apps?
-- ¿Qué es un Guest User?
-- ¿Qué es un Mail Contact?
-
----
-
-# 10. Resumen (Slide 29)
-
-## Mensaje principal
-
-En este módulo vimos:
-
-- Modelos de identidad
-- Creación de usuarios
-- Administración de usuarios
-- Licencias de usuario
-- Recuperación de usuarios
-- Operaciones masivas
-- Guest Users
-- Mail Contacts
