@@ -80,8 +80,6 @@ Microsoft 365 Backup permite realizar copias de seguridad y restauraciones de Ex
 
 # 8. Solicitar asistencia a Microsoft (Slide 27)
 
-## Mensaje principal
-
 Los administradores pueden crear solicitudes de soporte directamente desde Microsoft 365 para problemas técnicos, administrativos, de facturación o relacionados con las suscripciones.
 
 ## Demo
