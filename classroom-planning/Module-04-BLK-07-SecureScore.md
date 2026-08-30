@@ -19,7 +19,6 @@ Microsoft Secure Score permite medir la postura de seguridad del entorno Microso
 
 Las acciones recomendadas ayudan a aumentar el nivel de seguridad del tenant, permitiendo priorizar controles según impacto, riesgo y esfuerzo de implementación. 【1-8dadcb】
 
-## Demo
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Secure Score → Improvement actions
