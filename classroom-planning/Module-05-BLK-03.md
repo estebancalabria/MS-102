@@ -5,7 +5,7 @@
 # 1. Microsoft Defender for Office 365 (Slides 15-16)
 
 
-Microsoft Defender for Office 365 complementa la protección básica de Exchange Online Protection incorporando capacidades avanzadas para detectar ataques dirigidos y amenazas sofisticadas. 【1-c719c9】
+Microsoft Defender for Office 365 complementa la protección básica de Exchange Online Protection incorporando capacidades avanzadas para detectar ataques dirigidos y amenazas sofisticadas.
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Email & collaboration → Policies & rules → Threat policies
@@ -16,7 +16,7 @@ Microsoft Defender for Office 365 complementa la protección básica de Exchange
 
 # 2. Safe Attachments y Safe Links (Slide 17)
 
-Safe Attachments analiza archivos adjuntos en entornos aislados y Safe Links verifica URL en tiempo real para proteger a los usuarios frente a malware y phishing avanzado. 【1-c719c9】
+Safe Attachments analiza archivos adjuntos en entornos aislados y Safe Links verifica URL en tiempo real para proteger a los usuarios frente a malware y phishing avanzado.
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Email & collaboration → Policies & rules → Threat policies
@@ -28,7 +28,7 @@ Safe Attachments analiza archivos adjuntos en entornos aislados y Safe Links ver
 # 3. Spoof Intelligence (Slide 18)
 
 
-Spoof Intelligence permite identificar remitentes que intentan suplantar dominios corporativos y decidir si deben permitirse o bloquearse. 【1-c719c9】
+Spoof Intelligence permite identificar remitentes que intentan suplantar dominios corporativos y decidir si deben permitirse o bloquearse.
 
 
 * [BROWSER] https://security.microsoft.com
@@ -41,7 +41,7 @@ Spoof Intelligence permite identificar remitentes que intentan suplantar dominio
 
 # 4. Directivas de correo saliente y control de acceso (Slides 19-20)
 
-Microsoft Defender permite controlar cuentas comprometidas mediante políticas de correo saliente y bloquear o permitir remitentes, dominios, archivos y URL específicos. 【1-c719c9】
+Microsoft Defender permite controlar cuentas comprometidas mediante políticas de correo saliente y bloquear o permitir remitentes, dominios, archivos y URL específicos.
 
 
 * [BROWSER] https://security.microsoft.com
@@ -56,7 +56,7 @@ Microsoft Defender permite controlar cuentas comprometidas mediante políticas d
 
 # 5. Submissions y análisis de amenazas (Slide 21)
 
-Los administradores pueden enviar mensajes, archivos, adjuntos y URL sospechosas para que Microsoft los analice y ayude a mejorar la protección del servicio. 【1-c719c9】
+Los administradores pueden enviar mensajes, archivos, adjuntos y URL sospechosas para que Microsoft los analice y ayude a mejorar la protección del servicio.
 
 
 * [BROWSER] https://security.microsoft.com
