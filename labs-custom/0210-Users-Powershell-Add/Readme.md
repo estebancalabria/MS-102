@@ -116,7 +116,7 @@ New-MgUser `
 
 * Una linea
 
-```
+```powershell
 New-MgUser -DisplayName "Juan Pérez" -GivenName "Juan" -Surname "Pérez" -UserPrincipalNam "juan.perez@<DOMAIN>.onmicrosoft.com" -MailNickname "juan.perez" -AccountEnabled -PasswordProfile $PasswordProfile
 ```
 
