@@ -1,45 +1,55 @@
+# Día 1 — Tenant completo + inicio de User Management
+* Módulo 1 – Tenant
+  - Tenant Config
+  - Users & Licenses
+  - Groups
+  - Domains
+  - Viva Connectivity (Optional)
+* Módulo 2 – User Management (parte 1)
+  - Roles
+  - Apps
 
-# Day 1
+# Día 2 — Cierre de User Management + Identidad (parte 1)
+* Módulo 2 – User Management (parte 2)
+  - Health
+  - Viva Insights (Optional)
+* Módulo 3 – ID Sync
+* Módulo 4 – ID Governance (parte 1)
+  - Security
+  - Zero Trust
+  - Secure Access
+  - Defender (for Identity)
 
-* Module 1
-  * Tennant Initialization
-  * User Management
-  * License Management
-  * Group Management
-  * Custom Domains
-* Module 2
-  * Roles and Permissions
-  * Health
-  * Manage Apps
- 
+# Día 3 — Identidad (parte 2) + Defender for Mails
+* Módulo 4 – ID Governance (parte 2)
+  - Secure Score
+  - PIM
+  - ID Protection
+* Módulo 5 – Defender for Mails
+  - EOP
+  - Mail 365
+  - Safe Attachments
+  - Safe Links
 
-# Day 2
+# Día 4 — Defender XDR + Intro a Purview
+* Módulo 6 – Defender XDR — primeros 3/4 de la clase
+  - Threat Intelligence
+  - Cloud Apps
+  - Endpoint
+  - 365
+* Introducción a Purview — último cuarto de la clase
 
-* Module 3
-  * Id Sync
-* Module 4
-  * Security
-  * ID Governance
-    * Zero Trust
-    * MFA
-    * Conditional Access
-    * ID Protection
-    * PIM
-
-
-# Day 3
-
-* Module 5
-   * Defender Overview
-  * Defender for 365
-  * Mail Securitu
-* Module 6
-  * Apps Security
-
-# Day 4
-
-* PurView
-
-# Day 5
-
-* PurView
+# Día 5 — Purview completo
+* Módulo 7 – Purview Governance
+  - Governance
+  - Exchange
+  - Retention Policies
+* Módulo 8 – Purview Compliance
+  - Compliance
+  - Information Barriers
+  - DLP Explore
+  - DLP Implement
+* Módulo 9 – Purview Information Protection
+  - Classification
+  - Sensitive Labels
+  - Labeling Implementation
