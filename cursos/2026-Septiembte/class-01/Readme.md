@@ -50,3 +50,13 @@
 ---
 
 # Kahoot
+
+# User Management
+
+* We created a user using
+  * Admin Center
+  * Powershell
+  * Bulk insert
+  * Enta
+ 
+* 
