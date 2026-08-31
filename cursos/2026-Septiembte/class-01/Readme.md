@@ -32,3 +32,21 @@
 * We use Skillable trainning key provided by trainner use it on
     * https://alh.learnondemand.net/User/Login
 
+# Part 1 - Configure M365 Tennant
+
+* https://github.com/estebancalabria/MS-102/tree/main/0100-Configure-Experience
+
+* Portales que vimos
+  * https://admin.cloud.microsoft/
+  * https://admin.teams.microsoft.com/
+  * https://xxxxxxxx-admin.sharepoint.com/
+  * https://purview.microsoft.com/
+  * https://portal.azure.com/
+  * https://security.microsoft.com
+  * https://entra.microsoft.com
+
+---
+# 12:30 Break
+---
+
+# Kahoot
