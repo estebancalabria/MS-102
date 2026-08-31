@@ -108,10 +108,16 @@ New-MgUser `
     -DisplayName "Juan Pérez" `
     -GivenName "Juan" `
     -Surname "Pérez" `
-    -UserPrincipalName "juan.perez@wwlx422640.onmicrosoft.com" `
+    -UserPrincipalName "juan.perez@<DOMAIN>.onmicrosoft.com" `
     -MailNickname "juan.perez" `
     -AccountEnabled `
     -PasswordProfile $PasswordProfile
+```
+
+* Una linea
+
+```
+New-MgUser -DisplayName "Juan Pérez" -GivenName "Juan" -Surname "Pérez" -UserPrincipalNam "juan.perez@<DOMAIN>.onmicrosoft.com" -MailNickname "juan.perez" -AccountEnabled -PasswordProfile $PasswordProfile
 ```
 
 > Reemplazar `wwlx422640.onmicrosoft.com` por el dominio del tenant utilizado en el laboratorio.
