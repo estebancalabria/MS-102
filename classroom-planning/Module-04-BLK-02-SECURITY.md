@@ -75,11 +75,9 @@ La exposición accidental ocurre cuando usuarios comparten contenido sensible fu
 
 Las contraseñas débiles y el uso indebido de privilegios siguen siendo causas habituales de incidentes de seguridad tanto internos como externos.
 
-## Demo
-
-* [BROWSER] https://entra.microsoft.com
-    * [MENU] Protection → Authentication methods
-        * 👁️ -> Métodos de autenticación habilitados
-    * [MENU] Protection → Identity Protection
-        * 👁️ -> Vulnerabilidades detectadas
+* [BROWSER] https://security.microsoft.com
+  * [MENU] Identities → Password protection
+    * 👁️ → Password Policies
+    * 👁️ → Password Hygiene
+    * 👁️ → Leaked Credentials
 
