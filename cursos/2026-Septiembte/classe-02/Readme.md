@@ -24,3 +24,7 @@
 
 * Apps
     * https://config.office.com/
+
+# Module 3
+
+* Entra Cloud Sync
