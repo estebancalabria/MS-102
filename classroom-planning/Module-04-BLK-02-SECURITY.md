@@ -3,12 +3,11 @@
 ---
 
 # 1. Phishing y Spear Phishing (Slide 6) - Spoofing de correo electrónico (Slide 7) - Spam y Malware (Slide 8)
+## Defender for 365
 
 * El phishing es uno de los vectores de ataque más utilizados para obtener credenciales y acceso a los sistemas corporativos mediante correos aparentemente legítimos.
 * El spoofing busca hacer creer al usuario que un correo fue enviado por una organización o remitente legítimo cuando en realidad proviene de un atacante.
 * El malware suele distribuirse mediante correo electrónico utilizando archivos adjuntos o enlaces maliciosos que buscan comprometer dispositivos y datos corporativos.
-
-## Demo
 
 * [BROWSER] https://security.microsoft.com
     * [MENU] Email & collaboration → Explorer
