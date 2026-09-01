@@ -4,13 +4,15 @@
   - Users & Licenses
   - Groups
   - Domains
-  - Viva Connectivity (Optional)
+  - Connectivity (Optional)
 * Módulo 2 – User Management (parte 1)
   - Roles
-  - Apps
+
 
 # Día 2 — Cierre de User Management + Identidad (parte 1)
 * Módulo 2 – User Management (parte 2)
+  - Roles (CONT)
+  - Apps
   - Health
   - Viva Insights (Optional)
 * Módulo 3 – ID Sync
