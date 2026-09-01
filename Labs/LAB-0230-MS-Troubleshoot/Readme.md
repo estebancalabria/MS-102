@@ -3,7 +3,7 @@
 ## Test 1: Enviar mail a dominio inválido
 * [WINDOWS] LON-CL1 -> Browser -> Home M365 (logueado como Holly)
 * [MENU] Apps -> Outlook
-* [WINDOWS] Outlook (Holly)
+* [BROWSER] https://outlook.office.com/mail/
   * New mail
     * To : user@alt.none -> Use this address
     * Subject : Testing invalid domain
