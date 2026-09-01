@@ -24,11 +24,20 @@
               
 ---
 
-# 4. Vulneraciones de cuentas (Slide 9)
+# 4. Microsoft Entra ID Protection (Slide 9)
 
 Las cuentas comprometidas permiten a los atacantes acceder a recursos corporativos utilizando credenciales válidas y normalmente son el punto de inicio de ataques más avanzados. 
-
-## Demo
+* Risky sign-in = el inicio de sesión que fue considerado riesgoso
+* Risk detection = la señal/motivo que hizo que Microsoft lo considerara riesgoso
+* Risky user = el usuario que acumula riesgo
+Algunos ejemplos de risk detections:
+* Anonymous IP address
+* Leaked credentials
+* Impossible travel
+* Malicious IP address
+* Password spray
+* Unfamiliar sign-in properties
+* Anomalous token
 
 * [BROWSER] https://entra.microsoft.com
     * [MENU] Protection → Risky users
@@ -41,8 +50,6 @@ Las cuentas comprometidas permiten a los atacantes acceder a recursos corporativ
 # 5. Exfiltración y eliminación de datos (Slides 11-12)
 
 La protección de datos requiere controles que eviten tanto la extracción no autorizada de información como la eliminación maliciosa de contenido crítico.
-
-## Demo
 
 * [BROWSER] https://admin.cloud.microsoft
     * [MENU] Show all
