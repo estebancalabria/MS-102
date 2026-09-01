@@ -1,6 +1,11 @@
-# [TEÓRICO] Microsoft Viva Insights
-**Slides:** 48-56  
-**Duración:** 45-60 minutos
+# Microsoft Viva Insights
+* Connections → “Entrá acá para ver las noticias de la empresa, recursos de RRHH, beneficios, políticas, enlaces internos, etc.”
+* Engage → “Este es nuestro Facebook/foro interno: comunidades, publicaciones y conversaciones entre empleados.”
+   * https://engage.cloud.microsoft/
+* Learning → “Acá encuentro los cursos y capacitaciones que tengo disponibles.”
+   * https://learning.cloud.microsoft/
+* Insights → “Me ayuda a entender mis hábitos de trabajo: reuniones, tiempo de concentración, colaboración, etc.”
+   * https://insights.cloud.microsoft/
 
 ---
 
