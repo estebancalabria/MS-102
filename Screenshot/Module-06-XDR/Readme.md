@@ -1,5 +1,13 @@
 # Menu
 
+* Incidents → Agrupa y correlaciona varias alertas relacionadas en un mismo incidente para mostrar el contexto completo de un ataque.
+* Alerts → Muestra las alertas de seguridad individuales generadas por los distintos productos de Microsoft Defender.
+* Advanced Hunting → Permite consultar los datos de seguridad mediante KQL para investigar actividades, dispositivos, usuarios, correos y amenazas.
+* Action Center → Muestra y permite administrar las acciones de respuesta y remediación realizadas automáticamente o por los analistas.
+* Submissions → Permite enviar correos, archivos o URLs sospechosos a Microsoft para que sean analizados y clasificados.
+* Threat Analytics → Presenta información sobre amenazas activas, campañas y vulnerabilidades relevantes para ayudar a priorizar riesgos.
+* Intel Management → Permite administrar Threat Intelligence, especialmente indicadores de compromiso (IOC) como IP, dominios, URLs y hashes.
+
 [BROWSER] https://security.microsoft.com
 
 [MENU] Investigation & response
@@ -50,5 +58,60 @@
 <img width="1000" height="865" alt="image" src="https://github.com/user-attachments/assets/d3e01eac-f630-4960-9343-8470047f9542" />
 
 <img width="1024" height="560" alt="image" src="https://github.com/user-attachments/assets/332eddca-8d57-45db-8923-ad4e9d5fe5cb" />
+
+
+# Investigation & response → Actions & submissions → Action center
+
+
+<img width="852" height="409" alt="image" src="https://github.com/user-attachments/assets/fcb859b9-10b9-4d60-ba7d-2f3574fd0f75" />
+
+<img width="1312" height="779" alt="image" src="https://github.com/user-attachments/assets/e7fb91d8-c9ea-47d0-88cd-f3e1c4391999" />
+
+<img width="2048" height="1002" alt="image" src="https://github.com/user-attachments/assets/b1c17bad-2404-40e4-a990-e4321eed9397" />
+
+<img width="324" height="382" alt="image" src="https://github.com/user-attachments/assets/a810063a-c410-4c62-b9a6-9f7a810653ca" />
+
+# 5. Investigation & response → Actions & submissions → Submissions
+
+<img width="1600" height="1009" alt="image" src="https://github.com/user-attachments/assets/826061d2-9f46-44fd-9907-5b969f781642" />
+
+<img width="975" height="566" alt="image" src="https://github.com/user-attachments/assets/8ba5f0ae-5f95-4a07-ba39-5c30580c5c0f" />
+
+<img width="3732" height="1395" alt="image" src="https://github.com/user-attachments/assets/83307e7d-c92e-472d-94c0-da73d408792a" />
+
+<img width="1898" height="935" alt="image" src="https://github.com/user-attachments/assets/fb136d78-9944-4fc6-b56e-fbb9d17f8fbe" />
+
+<img width="999" height="519" alt="image" src="https://github.com/user-attachments/assets/549caed3-ccc5-4e46-b924-c94100d83aab" />
+
+# 6. Threat intelligence → Threat analytics
+
+
+<img width="2135" height="1223" alt="image" src="https://github.com/user-attachments/assets/682a50ab-4040-4453-a76d-1528c5be5086" />
+
+<img width="1611" height="950" alt="image" src="https://github.com/user-attachments/assets/764b9904-0e5b-4308-a65d-d1c954dfac85" />
+
+<img width="2133" height="1075" alt="image" src="https://github.com/user-attachments/assets/9fa74b8c-e533-424f-8c18-34554263ee62" />
+
+<img width="2218" height="1177" alt="image" src="https://github.com/user-attachments/assets/ff1c25f8-2640-450e-828b-96ee4bd736bd" />
+
+<img width="900" height="453" alt="image" src="https://github.com/user-attachments/assets/d6d05303-202e-48e2-a6c9-6fd8701cc98f" />
+
+# 7. Threat intelligence → Intel management
+
+
+<img width="1840" height="838" alt="image" src="https://github.com/user-attachments/assets/a8d913ec-84cd-4014-9e58-e24bf9aef26e" />
+
+
+<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/808bc8e5-fbfe-4cfa-9e31-c3f24e05af6e" />
+
+
+
+
+
+
+
+
+
+
 
 
