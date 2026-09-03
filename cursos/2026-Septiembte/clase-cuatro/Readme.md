@@ -39,6 +39,8 @@
        * [Security] -> Cloud Apps
        * https://intune.microsoft.com/
     * Purview (Defender for data segun el profe)
+    * Defender for Cloud
+      * Requiere la subscripcion de Azur
      
 
 # Microsoft Defender
