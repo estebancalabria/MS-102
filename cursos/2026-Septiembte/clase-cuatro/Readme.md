@@ -16,7 +16,6 @@
     * Defender for Identity
         * Passowords Policies
         * [SECURITY PORTAL] -> Identity
-    * 
     * Id Protection (Different Procutct, not Defender for Identty)
         * Sing-Ins
         * Risky Users
@@ -34,7 +33,9 @@
           * Parte en el conditional Acces
         * Maneja Apps que funcionan en el browser
      
-# Defender 4 Cloud apps
-          
 
 # Microsoft Defender
+
+# Defender 4 Cloud apps
+
+* Apps que funcionan en el browser          
