@@ -8,6 +8,9 @@
   * Two Ways
     * Authomatic -> Logs, Alerts
     * Manually -> Policies
+  * Monitoreo General
+    * Defender XDR
+    * Sentinel (SIEM)
   * Different Products
     * Defender for 365
       * [SECURITY PORTAL] -> Email and Colaboration
@@ -32,6 +35,10 @@
           * Se manejan parte ahi
           * Parte en el conditional Acces
         * Maneja Apps que funcionan en el browser
+    * Defender fo Endponint
+       * [Security] -> Cloud Apps
+       * https://intune.microsoft.com/
+    * Purview (Defender for data segun el profe)
      
 
 # Microsoft Defender
