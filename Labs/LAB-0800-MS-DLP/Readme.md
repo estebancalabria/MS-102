@@ -22,19 +22,12 @@
 
 ## Abrir Data Loss Prevention
 
-* [WINDOWS] LON-CL1
+* [BROWSER] https://purview.microsoft.com
   * Edge debería continuar abierto con sesión iniciada como **Holly Dickson**
-
-* Si Microsoft Purview no está abierto:
-  * [BROWSER] Abrir una nueva pestaña
-    * Navegar a:
-
-      [Microsoft Purview](https://purview.microsoft.com)
-
-* [MENU] Navigation pane
-  * **Solutions**
-    * **Data Loss Prevention**
-      * **Policies**
+ * [MENU] Navigation pane
+   * **Solutions**
+     * **Data Loss Prevention**
+       * **Policies**
 
 ---
 
